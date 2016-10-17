@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">惡鬼紋身</string>
+    <string name="crop_image_title">相片裁剪</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">選單</string>
+    <string name="title_activity_three">第三籤　甲辰</string>
+    <string name="title_activity_four">第四籤　甲午</string>
+    <string name="title_activity_five">第五籤　甲申</string>
+    <string name="title_activity_six">第六籤　甲戌</string>
+    <string name="title_activity_zero">雷雨師一百籤</string>
+    <string name="title_activity_oneone">第一籤</string>
+    <string name="title_activity_twotwo">第二籤</string>
+    <string name="title_activity_seven">第七籤</string>
+    <string name="title_activity_eight">第八籤 </string>
+    <string name="title_activity_nine">第九籤 </string>
+    <string name="title_activity_ten">第十籤 </string>
+    <string name="title_activity_eleven">第十一籤 </string>
+    <string name="title_activity_twelve">第十二籤 </string>
+    <string name="title_activity_thirteen">第十三籤 </string>
+    <string name="title_activity_fourteen">第十四籤 </string>
+    <string name="title_activity_fifteen">第十五籤 </string>
+    <string name="title_activity_sixteen">第十六籤 </string>
+    <string name="title_activity_seventeen">第十七籤</string>
+    <string name="title_activity_eighteen">第十八籤 </string>
+    <string name="title_activity_nineteen">第十九籤</string>
+    <string name="title_activity_twenty">第二十籤 </string>
+    <string name="title_activity_twentyone">第二一籤 </string>
+    <string name="title_activity_twentytwo">第二二籤 </string>
+    <string name="title_activity_twentythree">第二三籤 </string>
+    <string name="title_activity_twentyfour">第二四籤 </string>
+    <string name="title_activity_twentyfive">第二五籤</string>
+    <string name="title_activity_twentysix">第二六籤</string>
+    <string name="title_activity_twentyseven">第二七籤</string>
+    <string name="title_activity_twentyeight">第二八籤</string>
+    <string name="title_activity_twentynine">第二九籤</string>
+    <string name="title_activity_thirty">第三十籤</string>
+    <string name="title_activity_thirtyone">第三一籤</string>
+    <string name="title_activity_thirtytwo">第三二籤</string>
+    <string name="title_activity_thirtythree">第三三籤</string>
+    <string name="title_activity_thirtyfour">第三四籤</string>
+    <string name="title_activity_thirtyfive">第三五籤</string>
+    <string name="title_activity_thirtysix">第三六籤</string>
+    <string name="title_activity_thirtyseven">第三七籤</string>
+    <string name="title_activity_thirtyeigh">第三八籤</string>
+    <string name="title_activity_thirtynine">第三九籤</string>
+    <string name="title_activity_forty">第四十籤</string>
+    <string name="title_activity_fortyone">第四一籤</string>
+    <string name="title_activity_fortytwo">第四二籤</string>
+    <string name="title_activity_fortythree">第四三籤</string>
+    <string name="title_activity_fortyfour">第四四籤 </string>
+    <string name="title_activity_fortyfive">第四五籤</string>
+    <string name="title_activity_fortysix">第四六籤 </string>
+    <string name="title_activity_fortyseven">第四七籤</string>
+    <string name="title_activity_fortyeight">第四八籤</string>
+    <string name="title_activity_fortynine">第四九籤</string>
+    <string name="title_activity_fifty">第五十籤</string>
+    <string name="title_activity_fiftyone">第五一籤</string>
+    <string name="title_activity_fiftytwo">第五二籤</string>
+    <string name="title_activity_fiftythree">第五三籤</string>
+    <string name="title_activity_fiftyfour">第五四籤</string>
+    <string name="title_activity_fiftyfive">第五五籤</string>
+    <string name="title_activity_fiftysix">第五六籤</string>
+    <string name="title_activity_fiftyseven">第五七籤</string>
+    <string name="title_activity_fiftyeight">第五八籤</string>
+    <string name="title_activity_fiftynine">第五九籤</string>
+    <string name="title_activity_sixty">第六十籤</string>
+    <string name="title_activity_head_page">雷雨師一百籤</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7019441527375550/1135167025</string>
+    <string name="title_activity_page_61">第六一籤</string>
+    <string name="title_activity_page_62">第六二籤</string>
+    <string name="title_activity_page_63">第六三籤</string>
+    <string name="title_activity_page_64">第六四籤</string>
+    <string name="title_activity_page_65">第六五籤</string>
+    <string name="title_activity_page_66">第六六籤</string>
+    <string name="title_activity_page_67">第六七籤</string>
+    <string name="title_activity_page_68">第六八籤</string>
+    <string name="title_activity_page_69">第六九籤</string>
+    <string name="title_activity_page_70">第七十籤</string>
+    <string name="title_activity_page_71">第七一籤</string>
+    <string name="title_activity_page_72">第七二籤</string>
+    <string name="title_activity_page_73">第七三籤</string>
+    <string name="title_activity_page_74">第七四籤</string>
+    <string name="title_activity_page_75">第七五籤</string>
+    <string name="title_activity_page_76">第七六籤</string>
+    <string name="title_activity_page_77">第七七籤</string>
+    <string name="title_activity_page_78">第七八籤</string>
+    <string name="title_activity_page_79">第七九籤</string>
+    <string name="title_activity_page_80">第八十籤</string>
+    <string name="title_activity_page_81">第八一籤</string>
+    <string name="title_activity_page_82">第八二籤</string>
+    <string name="title_activity_page_83">第八三籤</string>
+    <string name="title_activity_page_84">第八四籤</string>
+    <string name="title_activity_page_85">第八五籤</string>
+    <string name="title_activity_page_86">第八六籤</string>
+    <string name="title_activity_page_87">第八七籤</string>
+    <string name="title_activity_page_88">第八八籤</string>
+    <string name="title_activity_page_89">第八九籤</string>
+    <string name="title_activity_page_90">第九十籤</string>
+    <string name="title_activity_page_91">第九一籤</string>
+    <string name="title_activity_page_92">第九二籤</string>
+    <string name="title_activity_page_93">第九三籤</string>
+    <string name="title_activity_page_94">第九四籤</string>
+    <string name="title_activity_page_95">第九五籤</string>
+    <string name="title_activity_page_96">第九六籤</string>
+    <string name="title_activity_page_97">第九七籤</string>
+    <string name="title_activity_page_98">第九八籤</string>
+    <string name="title_activity_page_99">第九九籤</string>
+    <string name="title_activity_page_100">第一百籤</string>
+    <string name="title_activity_page_king">Page_kingActivity</string>
+    <string name="title_activity_divination_page">求籤不求人</string>
+    <string name="title_activity_divination_page_2java">求籤不求人</string>
+    <string name="title_activity_main__select">求籤不求人</string>
+    <string name="title_activity_seven_people_book__menu">七騎士小百科</string>
+    <string name="title_activity_hit_city">每日攻城戰</string>
+    <!--pageName and GAName-->
+    <string name="ga_homePage">七騎士小百科首頁</string>
+    <string name="ga_hitCity">每日攻城戰</string>
+    <string name="ga_newsplayerteach">新手導引任務</string>
+    <string name="ga_ideaandshare">建議與提供資訊</string>
+    <string name="ga_dargon">屠龍建議</string>
+    <!-- -->
+    <string name="monday">星期一</string>
+    <string name="tuesday">星期二</string>
+    <string name="wednesday">星期三</string>
+    <string name="thurday">星期四</string>
+    <string name="friday">星期五</string>
+    <string name="saturday">星期六</string>
+    <string name="sunday">星期日</string>
+
+    <!-- -->
+    <string name="alert_ok">確定</string>
+    <string name="prerequisites">必備角色</string>
+    <string name="todayis">今天為:</string>
+    <string name="bossis">今日城主為:</string>
+    <string name="effect">技能效果</string>
+    <string name="hitcitybtn">※補充說明</string>
+    <string name="hitcitybtnmessage">1.表中角色皆以六星為主，六星的免疫被動技能可維持六回合，五星四回合，四星二回合，部分角色的被動技能要到六星才有效果，例如卡琳和雷歐要六星才有防即死。
+\n\n2.星期一帶齊克是不錯的選擇，可以防暈又擁有2個高傷害單體技，能夠增加輸出，而消除路迪增益的角色為主動技能，挑選技能冷卻時間越低的越好，若CD過長可帶兩隻互補。
+\n\n3.星期三雷伊潔兒的技能效果，諸葛亮的被動技能是很好用的，如果沒有的話，可以帶赫雷倪亞放嘲諷，讓雷伊潔兒專打你的赫雷倪亞，不然降低效果放在你的主要打手上會比較吃虧(如果有突破到40的拉坤也是可以帶啦....)。
+\n\n4.星期五傑伊普的燒傷在簡單的攻城下其實不痛，所以尤伊也可不用帶，但是本身有抗燒傷，加上攻城都需要一隻補師，所以他是可以考慮的，如果有麗娜還是帶麗娜為主。
+\n\n5.星期三和五的城主雷伊潔兒及傑伊普的負面技能影響較不大，因此可以多帶一支輔助角增加輸出。</string>
+    <string name="hitcitybtn_2">※角色配置</string>
+    <string name="hitcityBtn2Message">攻城成員的組成：打手、補師、增益角、免疫角、輔助角\n\n
+1.主要打手：賽茵、丘比、戴倫斯、齊克\n\n
+2.主要補師：麗娜、艾莉絲、貂蟬、卡琳、卡倫、尤伊\n\n
+3.增益角(增傷)：亞伊林、艾莉絲、艾斯、亞拉岡、戴倫斯、維多利亞\n\n
+4.免疫角：每日不同請看上表，也可帶冰帝(斯帕伊克)，可免疫所有負面效果兩回合，玲玲亦可\n\n
+5.輔助角：雷伊潔兒、路迪(增防)、幼琍(降防)、梅伊(減傷)、鎮(增防)、關羽(降攻)、諸葛亮(降傷)\n\n
+(簡單攻城戰中，雷伊潔兒為必備角色，沒有的話可借好友的，紅字為推薦角色，攻城想要高分他們是不可缺少的)
+</string>
+    <string name="hitcitybtn_3">※新手常見問題</string>
+    <string name="hitcitybtn3Message">1.如果當天必備角色(免疫角)沒有的話，怎麼辦？\n
+A：那就只能忍受被城主一直尻負面技能，相對打出來的分數會比較低，可以的話趕快生一隻出來吧。\n\n
+2.如果打手、補師、增益角、輔助角沒有上面寫的那些，怎麼辦？\n
+A：退而求其次，挑你自己傷害最高的角色當打手，通常是有單體技的角色，補師選擇性比較多，增益角真的沒有就放些輔助角，這裡自己要做點功課，認識自己卡池裡面有什麼可用的角色。\n\n
+3.為什麼攻城的城主都打不死，而且越打他越火，到後面像超級賽亞人一樣？\n
+A：攻城是累積分數制，所以不可能殺的死城主，會越打越火是城主隨著回合數增加，攻擊跟防禦都會上升，所以隊伍裡放隻增防角色，讓你可以多撐幾回合，對提高攻城分數也有幫助。\n\n
+4.為什麼今天的參加次數只剩兩次？\n
+A：攻城戰的難度不同，次數也會不同，簡單為3次，普通為2次，難度只有會長才能做修改。\n\n
+5.攻城戰難度不同，獎勵也會不同，我的公會簡單都打好幾千萬分，為什麼會長不改打普通？\n
+A：普通A箱的獎勵才會大於簡單S箱的，而且簡單穩S上普通不一定能穩A。\n\n
+6.攻城戰點數能做什麼？要買什麼比較划算？\n
+A：攻城點數可以在攻城戰商店購買東西，至於怎麼買比較划算見仁見智，通常都推薦3星元素召喚券或3星元素選擇券。\n\n
+7.七騎士點數能做什麼？\n
+A：集滿1000點就可以換一隻隨機七騎士\n\n</string>
+    <!--攻城必備角色 url-->
+    <!--周一-->
+    <string name="monday_phtot">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/karon.png</string>
+    <string name="monday_name">卡倫</string>
+    <string name="monday_phtot_2">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/zic.png</string>
+    <string name="monday_name_2">齊克</string>
+    <!--周二-->
+    <string name="tuesday_phtot">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/victoria.png</string>
+    <string name="tuesday_name">維多莉亞</string>
+    <!--周三-->
+    <string name="wednesday_phtot">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/jegal.png</string>
+    <string name="wednesday_name">諸葛亮</string>
+    <!--周四-->
+    <string name="thurday_photo">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/yui.png</string>
+    <string name="thurday_name">尤伊</string>
+    <!--周五-->
+    <string name="friday_photo">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/yui.png</string>
+    <string name="friday_name">尤伊</string>
+    <!--周六-->
+    <string name="saturday_photo">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/lania.png</string>
+    <string name="saturday_name">拉妮亞</string>
+    <!--周日-->
+    <string name="sunday_photo">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/leo.png</string>
+    <string name="sunday_name">雷歐</string>
+    <string name="sunday_photo_2">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/karin.png</string>
+    <string name="sunday_name_2">卡琳</string>
+    <string name="title_activity_news_player_teach">新手導引任務</string>
+    <string name="title_activity_main">英雄評價與建議裝備</string>
+    <string name="title_activity_for_idea_and_share">建議與提供資訊</string>
+
+    <!-- 屠龍 -->
+    <string name="dragon_tittle_1">賽茵</string>
+    <string name="dragon_url_1">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/sein.png</string>
+    <string name="dragon_tittle_2">艾絲芭塔</string>
+    <string name="dragon_url_2">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/espada.png</string>
+    <string name="dragon_tittle_3">亞依林</string>
+    <string name="dragon_url_3">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/eyelin.png</string>
+    <string name="dragon_tittle_4">齊克</string>
+    <string name="dragon_url_4">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/zic.png</string>
+    <string name="dragon_tittle_5">麗娜</string>
+    <string name="dragon_url_5">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/lina.png</string>
+    <string name="title_activity_who_peopele_2">whoPeopele_2Activity</string>
+    <string name="banner_admob_unit_id">ca-app-pub-7019441527375550/5993193027</string>
+
+
+    <string name="Network_status">網路狀態</string>
+    <string name="no_network">無網路連線，是否前往設定？</string>
+    <string name="setting">設定</string>
+    <string name="cancel">取消</string>
+    <string name="title_activity_my_head_page">MyHeadPageActivity</string>
+    <string name="title_activity_image_view">ImageViewActivity</string>
+
+</resources>
