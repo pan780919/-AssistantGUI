@@ -9,7 +9,6 @@ import java.util.List;
 import java.util.Random;
 
 import android.Manifest;
-import android.R.bool;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.ContentResolver;
@@ -177,7 +176,7 @@ public class MainActivity extends Activity {
         float mScale = 1;
 
         //如果圖片寬度大於手機寬度則進行縮放，否則直接將圖片放入ImageView內
-        if (bitmap.getWidth() > phone) {
+            if (bitmap.getWidth() > phone) {
             //判斷縮放比例
             mScale = (float) phone / (float) bitmap.getWidth();
 
