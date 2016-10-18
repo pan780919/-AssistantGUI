@@ -40,6 +40,7 @@ public class MainActivity extends Activity {
     private FirebaseAnalytics mFirebaseAnalytics;
     private static final String TAG = "MainActivity";
     private InterstitialAd interstitial;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

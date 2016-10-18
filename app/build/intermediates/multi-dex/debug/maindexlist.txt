@@ -119,6 +119,7 @@ com/google/android/gms/internal/zzho.class
 com/google/android/gms/internal/zzhe.class
 com/adlocus/push/PushReceive.class
 android/support/design/widget/Snackbar$Duration.class
+com/jhengweipan/ImageViewActivity$4.class
 com/cropimage/CropDialog$OnCropFinishListener.class
 android/support/design/widget/TabLayout$Tab.class
 com/google/android/gms/ads/internal/request/CapabilityParcel.class
@@ -175,6 +176,7 @@ com/google/android/gms/iid/MessengerCompat.class
 com/google/android/gms/iid/zzb.class
 com/google/android/gms/measurement/AppMeasurementService.class
 android/support/annotation/RequiresPermission.class
+com/cropimage/MainActivity$4.class
 com/google/android/gms/iid/MessengerCompat$zza.class
 android/support/v4/media/session/MediaSessionCompat$ResultReceiverWrapper.class
 com/igexin/getuiext/data/a/d.class
@@ -285,6 +287,7 @@ android/support/v4/media/MediaBrowserCompat$1.class
 com/google/android/gms/playlog/internal/PlayLoggerContext.class
 android/support/v4/media/VolumeProviderCompat$1.class
 com/google/android/gms/internal/zzjw.class
+com/jhengweipan/ImageViewActivity$3.class
 android/support/v4/view/OnApplyWindowInsetsListener.class
 com/google/android/gms/internal/zzakw.class
 android/support/annotation/ColorRes.class
@@ -300,6 +303,7 @@ android/support/v7/appcompat/R.class
 com/google/android/gms/internal/zzkp.class
 com/igexin/getuiext/data/a/e.class
 com/google/android/gms/iid/zzb$zza.class
+com/cropimage/MainActivity$2.class
 com/igexin/push/core/g.class
 android/support/design/widget/AppBarLayout$Behavior$1.class
 android/support/annotation/InterpolatorRes.class
@@ -549,6 +553,7 @@ android/support/v4/media/RatingCompat$StarStyle.class
 com/google/android/gms/internal/zzfo.class
 android/support/annotation/StringRes.class
 android/support/v4/widget/MaterialProgressDrawable$1.class
+com/cropimage/MainActivity$5.class
 android/support/v7/widget/AdapterHelper.class
 android/support/design/widget/SnackbarManager.class
 android/support/v7/widget/RecyclerView$ItemAnimator$ItemAnimatorListener.class
@@ -710,6 +715,7 @@ com/google/android/gms/common/internal/safeparcel/AbstractSafeParcelable.class
 com/google/android/gms/ads/internal/formats/zzk.class
 android/support/design/widget/AppBarLayout.class
 android/support/v4/view/ViewCompatJB.class
+com/cropimage/page_2_Activity$1.class
 com/google/android/gms/ads/internal/overlay/zzk.class
 com/adlocus/util/f.class
 com/google/android/gms/ads/AdRequest.class
@@ -776,6 +782,7 @@ com/google/android/gms/internal/zzla.class
 com/google/android/gms/internal/zzli.class
 com/google/android/gms/internal/zzkh.class
 com/google/android/gms/internal/zzkl.class
+com/cropimage/MainActivity$3.class
 com/google/android/gms/ads/internal/client/VideoOptionsParcel.class
 com/google/android/gms/internal/zzfq.class
 com/google/android/gms/internal/zzjk.class
@@ -917,10 +924,13 @@ android/support/v7/view/menu/MenuItemImpl.class
 android/support/annotation/NonNull.class
 android/support/v7/widget/RecyclerView$ItemAnimatorRestoreListener.class
 android/support/design/R$anim.class
+com/cropimage/MainActivity$1.class
 com/igexin/getuiext/data/a/f.class
 android/support/design/widget/CoordinatorLayoutInsetsHelperLollipop.class
+com/cropimage/MainActivity$6.class
 android/support/v4/widget/ResourceCursorAdapter.class
 com/jhengweipan/MyAPI/RequestResponseListener.class
+com/cropimage/MainActivity.class
 android/support/design/widget/Snackbar$SnackbarLayout.class
 com/google/android/gms/internal/zzfe.class
 com/google/android/gms/internal/zzfj.class
@@ -951,6 +961,7 @@ com/google/android/gms/ads/internal/overlay/zzc.class
 android/support/v4/widget/SimpleCursorAdapter.class
 android/support/v4/media/MediaBrowserCompat$ConnectionCallback.class
 android/support/v4/util/Pools.class
+com/cropimage/page_2_Activity.class
 android/support/annotation/UiThread.class
 com/adlocus/aa.class
 com/google/android/gms/ads/InterstitialAd.class

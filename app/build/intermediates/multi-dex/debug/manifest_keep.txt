@@ -22,6 +22,8 @@
 -keep class com.jhengweipan.tattoofans.MyFirebaseInstanceIDService { <init>(); }
 -keep class com.jhengweipan.tattoofans.MyHeadPageActivity { <init>(); }
 -keep class com.jhengweipan.ImageViewActivity { <init>(); }
+-keep class com.cropimage.MainActivity { <init>(); }
+-keep class com.cropimage.page_2_Activity { <init>(); }
 -keep class com.adlocus.util.MultiProcessPreferences { <init>(); }
 -keep class com.adlocus.AdActivity { <init>(); }
 -keep class com.adlocus.VideoAdActivity { <init>(); }

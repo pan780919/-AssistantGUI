@@ -97,6 +97,14 @@
     <init>();
 }
 
+-keep class com.cropimage.MainActivity {
+    <init>();
+}
+
+-keep class com.cropimage.page_2_Activity {
+    <init>();
+}
+
 -keep class com.adlocus.util.MultiProcessPreferences {
     <init>();
 }
