@@ -1,6 +1,6 @@
 package myAppKey;
 
 public class mykey {
-	public static final String ad ="ca-app-pub-7019441527375550/7851765023";
-	public static final String AdLoucsKey ="d448b9a69fe20ebcf4233b9fa19b0a528f0651ae";
+	public static final String ad ="ca-app-pub-7019441527375550/1504401027";
+	public static final String AdLoucsKey ="a5d8952d691839ce463cf0a858d3be034e5e96e8";
 }

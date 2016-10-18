@@ -52,7 +52,6 @@ public class MainActivity extends Activity {
         interstitial.setAdUnitId(mykey.ad);
         AdRequest adRequest = new AdRequest.Builder().build();
         interstitial.loadAd(adRequest);
-        configVersionCheck();
         PushManager.getInstance().initialize(this.getApplicationContext());
 //        if (savedInstanceState == null) {
 //
@@ -135,31 +134,7 @@ public class MainActivity extends Activity {
 
     }
 
-    private void configVersionCheck() {
 
-//        if (!GtApi.checkNetwork(IndexActivity.this)) return;
-
-        VersionChecker.checkOnce(this, new VersionChecker.DoneAdapter() {
-
-            @Override
-            public void onHasNewVersion() {
-                new AlertDialog.Builder(MainActivity.this)
-                        .setTitle("已有最新版本!")
-                        .setMessage("目前有最新版本上架,請盡快更新")
-                        .setNegativeButton("確定", new DialogInterface.OnClickListener() {
-                            @Override
-                            public void onClick(DialogInterface dialog, int which) {
-                                startActivity(VersionChecker.openMartketIntent());
-                                dialog.dismiss();
-                            }
-                        })
-                        .show();
-            }
-
-
-        });
-
-    }
 
 }
 

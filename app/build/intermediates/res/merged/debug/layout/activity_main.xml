@@ -16,7 +16,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             ads:adSize="BANNER"
-            ads:adUnitId="ca-app-pub-7019441527375550~2262795025" />
+            ads:adUnitId="ca-app-pub-7019441527375550/3739528223"/>
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"

@@ -39,6 +39,7 @@ dependencies {
     compile files('libs/GetuiExt-2.0.3.jar')
     //    compile 'com.android.support:support-v4'
     compile files('libs/universal-image-loader-1.9.4.jar')
+    compile 'com.google.android.gms:play-services-analytics:9.0.0'
 
     compile 'com.android.support:support-v4:23.4.0'
     compile 'com.android.support:appcompat-v7:23.4.0'
@@ -50,6 +51,10 @@ dependencies {
     compile 'com.android.support:design:23.4.0'
     compile 'com.facebook.android:audience-network-sdk:4.+'
     compile 'com.facebook.android:facebook-android-sdk:4.16.1'
+    compile 'com.google.android.gms:play-services-appindexing:9.0.0'
+    compile 'com.google.android.gms:play-services-appindexing:9.0.0'
+
+    compile 'eu.chainfire:libsuperuser:1.0.0.+'
 }
 
 

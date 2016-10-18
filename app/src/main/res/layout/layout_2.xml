@@ -23,7 +23,7 @@
 
     <TextView
 
-        android:id="@+id/imageView2"
+        android:id="@+id/textview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
@@ -32,7 +32,6 @@
         android:layout_marginLeft="200dp"
         android:shadowColor="#000"
         android:shadowRadius="7.0"
-        android:text="123"
         android:textSize="50dp"
         android:gravity="center" />
 

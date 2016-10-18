@@ -20,6 +20,36 @@ ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidMa
 uses-sdk
 ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:8:5-11:58
 MERGED from [com.android.support:multidex:1.0.1] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
@@ -198,6 +228,31 @@ MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Docum
 MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:customtabs:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.4.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [eu.chainfire:libsuperuser:1.0.0.201608240809] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\eu.chainfire\libsuperuser\1.0.0.201608240809\AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
 		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:11:9-55
 	android:targetSdkVersion
@@ -214,6 +269,8 @@ ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidMa
 		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:12:22-77
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\AndroidManifest.xml:21:5-67
 MERGED from [com.adlocus:library:3.5.2] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.adlocus\library\3.5.2\AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:21:5-67
 MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\AndroidManifest.xml:21:5-67
@@ -237,6 +294,8 @@ MERGED from [com.adlocus:library:3.5.2] C:\Users\HYXEN20141227\Documents\-Assist
 		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:15:22-78
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:16:5-79
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\AndroidManifest.xml:22:5-79
 MERGED from [com.adlocus:library:3.5.2] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.adlocus\library\3.5.2\AndroidManifest.xml:13:5-79
 MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\AndroidManifest.xml:22:5-79
@@ -266,6 +325,8 @@ MERGED from [com.adlocus:library:3.5.2] C:\Users\HYXEN20141227\Documents\-Assist
 		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:19:22-78
 uses-permission#android.permission.WAKE_LOCK
 ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:20:5-68
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\AndroidManifest.xml:25:5-67
 MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:24:5-67
 MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\AndroidManifest.xml:24:5-67
 MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:22:5-68
@@ -309,6 +370,36 @@ ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidMa
 		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:36:19-67
 application
 ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:46:5-237:19
+MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
@@ -481,6 +572,30 @@ MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Docum
 MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:customtabs:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:50:9-41
 	android:allowBackup
@@ -531,6 +646,24 @@ MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\HYXEN
 		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:73:13-65
 meta-data#com.google.android.gms.version
 ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:76:9-78:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
 MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
 MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
 MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:21:9-23:69
@@ -825,6 +958,45 @@ ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidMa
 		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:235:13-45
 	android:name
 		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:234:13-57
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:9:13-58
 provider#com.adlocus.util.MultiProcessPreferences
 ADDED from [com.adlocus:library:3.5.2] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.adlocus\library\3.5.2\AndroidManifest.xml:19:9-22:40
 	android:authorities
@@ -905,38 +1077,6 @@ MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] C:\Users\HYXEN20
 		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:39:11-35
 	android:name
 		ADDED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:37:11-82
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
-MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
-MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
-MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
-MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
-MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
-MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
-MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
-MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
-MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
-MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
-MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:7:9-11:39
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:8:13-72
-	android:exported
-		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:10:13-37
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:11:13-36
-	android:name
-		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\AndroidManifest.xml:9:13-58
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:20:9-22:45
-MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:20:9-22:45
-MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:20:9-22:45
-MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:20:9-22:45
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:22:19-43
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:21:19-78
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:20:19-85
 uses-permission#com.google.android.c2dm.permission.RECEIVE
 ADDED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:23:5-82
 MERGED from [com.google.firebase:firebase-iid:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\AndroidManifest.xml:23:5-82
