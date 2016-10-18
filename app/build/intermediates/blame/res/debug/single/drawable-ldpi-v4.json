@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\com_facebook_favicon_blue.png",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\com_facebook_favicon_blue.png"
+    },
+    {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\compose_tools_icon_confirm_click.png",
         "source": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\compose_tools_icon_confirm_click.png"
     },

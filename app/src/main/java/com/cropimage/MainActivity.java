@@ -16,7 +16,6 @@ import android.content.ContentValues;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.PackageManager;
-import android.content.pm.ResolveInfo;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Matrix;
@@ -24,21 +23,21 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.os.Environment;
 import android.os.Handler;
-import android.os.Parcelable;
 import android.provider.MediaStore;
 import android.provider.MediaStore.Images.Media;
-
-
 import android.support.v4.app.ActivityCompat;
 import android.util.DisplayMetrics;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.ImageView;
 
+import com.adlocus.PushAd;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
 import com.jhengweipan.Guandisignonehundred.R;
+
+import myAppKey.mykey;
 
 
 public class MainActivity extends Activity {
@@ -51,12 +50,16 @@ public class MainActivity extends Activity {
 	private static final int REQUEST_EXTERNAL_STORAGE = 200;
 	private Handler handler;
 	private  Button buttonObj,buttonObj2;
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-
-
+		AdView mAdView = (AdView)findViewById(R.id.adView);
+		AdRequest adRequest = new AdRequest.Builder().build();
+		mAdView.loadAd(adRequest);
+		Intent promotionIntent = new Intent(this, MainActivity.class);
+		PushAd.enablePush(MainActivity.this, mykey.AdLoucsKey, promotionIntent);
 		//讀取手機解析度
 		mPhone = new DisplayMetrics();
 		getWindowManager().getDefaultDisplay().getMetrics(mPhone);

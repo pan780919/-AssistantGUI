@@ -368,8 +368,388 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 2037,
+                    "endColumn": 65,
+                    "endOffset": 2098
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\audience-network-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2103,
+                    "endColumn": 175,
+                    "endOffset": 2274
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 175,
+                        "endOffset": 226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2279,
+                    "endColumn": 125,
+                    "endOffset": 2400
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 125,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2405,
+                    "endColumn": 131,
+                    "endOffset": 2532
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 131,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2537,
+                    "endColumn": 94,
+                    "endOffset": 2627
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 489,
+                        "endColumn": 94,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2632,
+                    "endColumn": 66,
+                    "endOffset": 2694
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 584,
+                        "endColumn": 66,
+                        "endOffset": 646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2699,
+                    "endColumn": 69,
+                    "endOffset": 2764
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 69,
+                        "endOffset": 716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2769,
+                    "endColumn": 60,
+                    "endOffset": 2825
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 721,
+                        "endColumn": 60,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2830,
+                    "endColumn": 72,
+                    "endOffset": 2898
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endColumn": 72,
+                        "endOffset": 850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2903,
+                    "endColumn": 80,
+                    "endOffset": 2979
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 80,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2984,
+                    "endColumn": 103,
+                    "endOffset": 3083
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 936,
+                        "endColumn": 103,
+                        "endOffset": 1035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3088,
+                    "endColumn": 79,
+                    "endOffset": 3163
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1040,
+                        "endColumn": 79,
+                        "endOffset": 1115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3168,
+                    "endColumn": 79,
+                    "endOffset": 3243
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1120,
+                        "endColumn": 79,
+                        "endOffset": 1195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3248,
+                    "endColumn": 95,
+                    "endOffset": 3339
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1200,
+                        "endColumn": 95,
+                        "endOffset": 1291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3344,
+                    "endColumn": 111,
+                    "endOffset": 3451
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1296,
+                        "endColumn": 111,
+                        "endOffset": 1403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3456,
+                    "endColumn": 64,
+                    "endOffset": 3516
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1408,
+                        "endColumn": 64,
+                        "endOffset": 1468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3521,
+                    "endColumn": 62,
+                    "endOffset": 3579
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1473,
+                        "endColumn": 62,
+                        "endOffset": 1531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3584,
+                    "endColumn": 56,
+                    "endOffset": 3636
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\audience-network-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 56,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3641,
+                    "endColumn": 65,
+                    "endOffset": 3702
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\audience-network-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 65,
+                        "endOffset": 239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3707,
+                    "endColumn": 124,
+                    "endOffset": 3827
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1536,
+                        "endColumn": 124,
+                        "endOffset": 1656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3832,
                     "endColumn": 262,
-                    "endOffset": 2295
+                    "endOffset": 4090
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -384,11 +764,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 2300,
+                    "startOffset": 4095,
                     "endColumn": 131,
-                    "endOffset": 2427
+                    "endOffset": 4222
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -403,11 +783,11 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 2432,
+                    "startOffset": 4227,
                     "endColumn": 184,
-                    "endOffset": 2612
+                    "endOffset": 4407
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -422,11 +802,11 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 2617,
+                    "startOffset": 4412,
                     "endColumn": 132,
-                    "endOffset": 2745
+                    "endOffset": 4540
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -441,11 +821,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 2750,
+                    "startOffset": 4545,
                     "endColumn": 128,
-                    "endOffset": 2874
+                    "endOffset": 4669
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -460,11 +840,11 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 2879,
+                    "startOffset": 4674,
                     "endColumn": 208,
-                    "endOffset": 3083
+                    "endOffset": 4878
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -479,11 +859,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 3088,
+                    "startOffset": 4883,
                     "endColumn": 208,
-                    "endOffset": 3292
+                    "endOffset": 5087
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -498,11 +878,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 3297,
+                    "startOffset": 5092,
                     "endColumn": 127,
-                    "endOffset": 3420
+                    "endOffset": 5215
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -517,11 +897,11 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 3425,
+                    "startOffset": 5220,
                     "endColumn": 166,
-                    "endOffset": 3587
+                    "endOffset": 5382
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -536,11 +916,11 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 3592,
+                    "startOffset": 5387,
                     "endColumn": 122,
-                    "endOffset": 3710
+                    "endOffset": 5505
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -555,11 +935,11 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 3715,
+                    "startOffset": 5510,
                     "endColumn": 161,
-                    "endOffset": 3872
+                    "endOffset": 5667
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -574,11 +954,11 @@
             },
             {
                 "to": {
-                    "startLine": 32,
+                    "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 3877,
+                    "startOffset": 5672,
                     "endColumn": 117,
-                    "endOffset": 3990
+                    "endOffset": 5785
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -593,11 +973,11 @@
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 3995,
+                    "startOffset": 5790,
                     "endColumn": 135,
-                    "endOffset": 4126
+                    "endOffset": 5921
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -612,11 +992,11 @@
             },
             {
                 "to": {
-                    "startLine": 34,
+                    "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 4131,
+                    "startOffset": 5926,
                     "endColumn": 186,
-                    "endOffset": 4313
+                    "endOffset": 6108
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -631,11 +1011,11 @@
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 4318,
+                    "startOffset": 6113,
                     "endColumn": 152,
-                    "endOffset": 4466
+                    "endOffset": 6261
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -650,11 +1030,11 @@
             },
             {
                 "to": {
-                    "startLine": 36,
+                    "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 4471,
+                    "startOffset": 6266,
                     "endColumn": 159,
-                    "endOffset": 4626
+                    "endOffset": 6421
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -669,11 +1049,11 @@
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 4631,
+                    "startOffset": 6426,
                     "endColumn": 130,
-                    "endOffset": 4757
+                    "endOffset": 6552
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -688,11 +1068,11 @@
             },
             {
                 "to": {
-                    "startLine": 38,
+                    "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 4762,
+                    "startOffset": 6557,
                     "endColumn": 178,
-                    "endOffset": 4936
+                    "endOffset": 6731
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -707,11 +1087,11 @@
             },
             {
                 "to": {
-                    "startLine": 39,
+                    "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 4941,
+                    "startOffset": 6736,
                     "endColumn": 133,
-                    "endOffset": 5070
+                    "endOffset": 6865
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -726,11 +1106,11 @@
             },
             {
                 "to": {
-                    "startLine": 40,
+                    "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 5075,
+                    "startOffset": 6870,
                     "endColumn": 252,
-                    "endOffset": 5323
+                    "endOffset": 7118
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.0.0\\res\\values-fi\\values.xml",
@@ -745,11 +1125,11 @@
             },
             {
                 "to": {
-                    "startLine": 41,
+                    "startLine": 61,
                     "startColumn": 4,
-                    "startOffset": 5328,
+                    "startOffset": 7123,
                     "endColumn": 228,
-                    "endOffset": 5552
+                    "endOffset": 7347
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -764,11 +1144,11 @@
             },
             {
                 "to": {
-                    "startLine": 42,
+                    "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 5557,
+                    "startOffset": 7352,
                     "endColumn": 123,
-                    "endOffset": 5676
+                    "endOffset": 7471
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -783,11 +1163,11 @@
             },
             {
                 "to": {
-                    "startLine": 43,
+                    "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 5681,
+                    "startOffset": 7476,
                     "endColumn": 107,
-                    "endOffset": 5784
+                    "endOffset": 7579
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -802,11 +1182,11 @@
             },
             {
                 "to": {
-                    "startLine": 44,
+                    "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 5789,
+                    "startOffset": 7584,
                     "endColumn": 179,
-                    "endOffset": 5964
+                    "endOffset": 7759
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -821,11 +1201,11 @@
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 65,
                     "startColumn": 4,
-                    "startOffset": 5969,
+                    "startOffset": 7764,
                     "endColumn": 127,
-                    "endOffset": 6092
+                    "endOffset": 7887
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -840,11 +1220,11 @@
             },
             {
                 "to": {
-                    "startLine": 46,
+                    "startLine": 66,
                     "startColumn": 4,
-                    "startOffset": 6097,
+                    "startOffset": 7892,
                     "endColumn": 206,
-                    "endOffset": 6299
+                    "endOffset": 8094
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -859,11 +1239,11 @@
             },
             {
                 "to": {
-                    "startLine": 47,
+                    "startLine": 67,
                     "startColumn": 4,
-                    "startOffset": 6304,
+                    "startOffset": 8099,
                     "endColumn": 135,
-                    "endOffset": 6435
+                    "endOffset": 8230
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -878,11 +1258,11 @@
             },
             {
                 "to": {
-                    "startLine": 48,
+                    "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 6440,
+                    "startOffset": 8235,
                     "endColumn": 168,
-                    "endOffset": 6604
+                    "endOffset": 8399
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -897,11 +1277,11 @@
             },
             {
                 "to": {
-                    "startLine": 49,
+                    "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 6609,
+                    "startOffset": 8404,
                     "endColumn": 95,
-                    "endOffset": 6700
+                    "endOffset": 8495
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -916,11 +1296,11 @@
             },
             {
                 "to": {
-                    "startLine": 50,
+                    "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 6705,
+                    "startOffset": 8500,
                     "endColumn": 99,
-                    "endOffset": 6800
+                    "endOffset": 8595
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -935,11 +1315,11 @@
             },
             {
                 "to": {
-                    "startLine": 51,
+                    "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 6805,
+                    "startOffset": 8600,
                     "endColumn": 111,
-                    "endOffset": 6912
+                    "endOffset": 8707
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\values-fi\\values.xml",
@@ -954,11 +1334,30 @@
             },
             {
                 "to": {
-                    "startLine": 52,
+                    "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 6917,
+                    "startOffset": 8712,
+                    "endColumn": 61,
+                    "endOffset": 8769
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\values-fi\\values-fi.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1661,
+                        "endColumn": 61,
+                        "endOffset": 1718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 8774,
                     "endColumn": 100,
-                    "endOffset": 7013
+                    "endOffset": 8870
                 },
                 "from": {
                     "file": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-fi\\values-fi.xml",
