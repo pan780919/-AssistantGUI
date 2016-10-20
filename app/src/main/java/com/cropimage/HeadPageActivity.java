@@ -1,6 +1,9 @@
 package com.cropimage;
 
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
 import java.security.Permission;
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.Timer;
@@ -9,10 +12,15 @@ import java.util.TimerTask;
 import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Intent;
+import android.content.pm.PackageInfo;
+import android.content.pm.PackageManager;
+import android.content.pm.Signature;
 import android.graphics.Bitmap;
 import android.graphics.Color;
 import android.net.Uri;
 import android.os.Bundle;
+import android.provider.ContactsContract;
+import android.util.Base64;
 import android.util.Log;
 import android.view.Gravity;
 import android.view.Menu;
@@ -74,9 +82,26 @@ public class HeadPageActivity extends Activity {
 		callbackManager = CallbackManager.Factory.create();
 		setContentView(R.layout.activity_head_page);
 		fbLogin();
+
+
+		try {
+			PackageInfo info = getPackageManager().getPackageInfo(
+					"com.jhengweipan.AssistantGUI",
+					PackageManager.GET_SIGNATURES);
+			for (Signature signature : info.signatures) {
+				MessageDigest md = MessageDigest.getInstance("SHA");
+				md.update(signature.toByteArray());
+				Log.d("KeyHash:", Base64.encodeToString(md.digest(), Base64.DEFAULT));
+			}
+		} catch (PackageManager.NameNotFoundException e) {
+
+		} catch (NoSuchAlgorithmException e) {
+
+		}
+
+
 		test=(TextView)findViewById(R.id.textView1);
-		fbImg  =(ImageView )findViewById(R.id.fdimg);
-		fbName  =(TextView ) findViewById(R.id.fbname);
+
 
 		RelativeLayout myLayout=(RelativeLayout)findViewById(R.id.myLayout);
 		Timer timer = new Timer();
@@ -133,29 +158,6 @@ public class HeadPageActivity extends Activity {
 			}
 		});
 
-		///ad
-//		AdLocusLayout ALLayout = new AdLocusLayout(this,
-//				AdLocusLayout.AD_SIZE_BANNER, //廣告大小, 可參考下表的ADSIZE, 非平板建議使用此項即可
-//				"2879057fde4e8158577744b379d544d98b30457d",               //app key
-//				15                            //輪播時間，最低 15 秒，-1 為不輪播只顯示一則
-//				);
-//
-//		//設定輪播動畫: 隨機, 置中
-//		ALLayout.setTransitionAnimation(AdLocusLayout.ANIMATION_RANDOM);
-//		LinearLayout.LayoutParams ALParams = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT,ViewGroup.LayoutParams.WRAP_CONTENT);
-//		ALParams.gravity = Gravity.CENTER;
-//
-//		//監聽廣告可加入下方範例
-//
-//		//加入至您的Layout中
-//		myLayout.addView(ALLayout, ALParams);
-//		myLayout.setGravity(Gravity.CENTER_HORIZONTAL);
-//		myLayout.invalidate();
-//		Intent promotionIntent = new Intent(this, HeadPageActivity.class);
-//		PushAd.enablePush(this, "2879057fde4e8158577744b379d544d98b30457d", promotionIntent );
-		//PushAd.showSettingPage(this, "2879057fde4e8158577744b379d544d98b30457d");
-		//PushAd.test(this);
-
 
 	}
 	@Override
@@ -166,75 +168,99 @@ public class HeadPageActivity extends Activity {
 	private  void fbLogin(){
 		 List<String> PERMISSIONS_PUBLISH = Arrays.asList("public_profile", "email","user_friends");
 		loginButton = (LoginButton) findViewById(R.id.login_button);
-
+		fbImg  =(ImageView )findViewById(R.id.fdimg);
+		fbName  =(TextView ) findViewById(R.id.fbname);
 		loginButton.setReadPermissions(PERMISSIONS_PUBLISH);
 
-		accessTokenTracker = new AccessTokenTracker() {
-			@Override
-			protected void onCurrentAccessTokenChanged(AccessToken oldAccessToken, AccessToken currentAccessToken) {
-			}
-		};
+//		accessTokenTracker = new AccessTokenTracker() {
+//			@Override
+//			protected void onCurrentAccessTokenChanged(AccessToken oldAccessToken, AccessToken currentAccessToken) {
+//			}
+//		};
 		profileTracker = new ProfileTracker() {
 			@Override
 			protected void onCurrentProfileChanged(Profile oldProfile, Profile currentProfile) {
+				if(oldProfile!=null){
+					//登出後
+
+					fbName.setText("");
+					 fbImg.setImageBitmap(null);
+					Log.d(TAG, "oldProfile: "+oldProfile.getProfilePictureUri(150, 150));
+					Log.d(TAG, "oldProfile: " + oldProfile.getId());
+					Log.d(TAG, "oldProfile: " + oldProfile.getFirstName());
+					Log.d(TAG, "oldProfile: " + oldProfile.getLastName());
+					Log.d(TAG, "oldProfile: " + oldProfile.getLinkUri());
+
+				}
+
 				if(currentProfile!=null){
-					fbName.setVisibility(View.VISIBLE);
-					fbImg.setVisibility(View.VISIBLE);
-					fbName.setText(currentProfile.getFirstName()+currentProfile.getLastName());
+					 //登入
+
+					fbName.setText(currentProfile.getName());
 					MyApi.loadImage(String.valueOf(currentProfile.getProfilePictureUri(150,150)),fbImg,HeadPageActivity.this);
 
-					Log.d(TAG, "onCurrentProfileChanged: "+currentProfile.getProfilePictureUri(150,150));
-					Log.d(TAG, "onCurrentProfileChanged: "+currentProfile.getId());
-					Log.d(TAG, "onCurrentProfileChanged: "+currentProfile.getFirstName());
-					Log.d(TAG, "onCurrentProfileChanged: "+currentProfile.getLastName());
-					Log.d(TAG, "onCurrentProfileChanged: "+currentProfile.getLinkUri());
+					Log.d(TAG, "currentProfile: "+currentProfile.getProfilePictureUri(150,150));
+					Log.d(TAG, "currentProfile: "+currentProfile.getId());
+					Log.d(TAG, "currentProfile: "+currentProfile.getFirstName());
+					Log.d(TAG, "currentProfile: "+currentProfile.getLastName());
+					Log.d(TAG, "currentProfile: "+currentProfile.getLinkUri());
 
 
-				}else {
-					fbName.setVisibility(View.GONE);
-					fbImg.setVisibility(View.GONE);
 				}
 
 			}
 		};
-		LoginManager.getInstance().registerCallback(callbackManager, new FacebookCallback<LoginResult>() {
-			@Override
-				public void onSuccess(LoginResult loginResult) {
+		profileTracker.startTracking();
 
-//				/* make the API call */
-//				new GraphRequest(
-//						AccessToken.getCurrentAccessToken(),
-//						"/me/friends",
-//						null,
-//						HttpMethod.GET,
-//						new GraphRequest.Callback() {
-//							public void onCompleted(GraphResponse response) {
-//								Log.d(TAG, "onCompleted: "+response.toString());
-//			/* handle the result */
-//							}
-//						}
-//				).executeAsync();
+		if(profileTracker.isTracking()){
+			Log.d(getClass().getSimpleName(), "profile currentProfile Tracking: " + "yes");
+			if(Profile.getCurrentProfile().getName()!=null)	fbName.setText(Profile.getCurrentProfile().getName());
+
+			if(Profile.getCurrentProfile().getProfilePictureUri(150, 150)!=null)	MyApi.loadImage(String.valueOf(Profile.getCurrentProfile().getProfilePictureUri(150, 150)),fbImg, HeadPageActivity.this);
+		}
+
+
+		else
+			Log.d(getClass().getSimpleName(), "profile currentProfile Tracking: " + "no");
 //
-
-			}
-
-			@Override
-			public void onCancel() {
-
-			}
-
-			@Override
-			public void onError(FacebookException error) {
-
-			}
-		});
+//		LoginManager.getInstance().registerCallback(callbackManager, new FacebookCallback<LoginResult>() {
+//			@Override
+//				public void onSuccess(LoginResult loginResult) {
+//
+////				/* make the API call */
+////				new GraphRequest(
+////						AccessToken.getCurrentAccessToken(),
+////						"/me/friends",
+////						null,
+////						HttpMethod.GET,
+////						new GraphRequest.Callback() {
+////							public void onCompleted(GraphResponse response) {
+////								Log.d(TAG, "onCompleted: "+response.toString());
+////			/* handle the result */
+////							}
+////						}
+////				).executeAsync();
+////
+//
+//			}
+//
+//			@Override
+//			public void onCancel() {
+//
+//			}
+//
+//			@Override
+//			public void onError(FacebookException error) {
+//
+//			}
+//		});
 
 	}
 
 	@Override
 	protected void onDestroy() {
 		super.onDestroy();
-		accessTokenTracker.stopTracking();
+//		accessTokenTracker.stopTracking();
 		profileTracker.stopTracking();
 	}
 }
