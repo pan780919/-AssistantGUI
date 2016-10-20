@@ -89,12 +89,12 @@ public class page_2_Activity extends Activity {
 //							.setContentTitle("請支持認養代替購買")
 //							.setContentDescription("台灣流浪動物認養APP")
 //							.setContentUrl(Uri.parse("https://play.google.com/store/apps/details?id=com.jackpan.TaiwanpetadoptionApp"))
-//							.setImageUrl(savePicture(bitamp))
 //
 //							.build();
 //					shareDialog.show(linkContent);
 //				}
                 if (ShareDialog.canShow(SharePhotoContent.class)) {
+                    Log.d(TAG, "onClick: in");
                     SharePhoto photo = new SharePhoto.Builder()
                             .setBitmap(bitamp)
                             .build();
