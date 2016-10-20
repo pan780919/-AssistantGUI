@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:2:1-239:12
+ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:2:1-259:12
 	package
 		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:4:5-51
 		INJECTED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml
@@ -369,7 +369,7 @@ ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidMa
 	android:name
 		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:36:19-67
 application
-ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:46:5-237:19
+ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:46:5-257:19
 MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\AndroidManifest.xml:27:5-20
 MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\AndroidManifest.xml:27:5-20
 MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:19:5-23:19
@@ -936,28 +936,59 @@ ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidMa
 		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:216:13-69
 	android:name
 		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:215:13-61
-activity#com.cropimage.MainActivity
-ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:224:9-232:20
+activity#com.cropimage.HeadPageActivity
+ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:222:9-230:20
 	android:label
-		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:226:13-45
+		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:224:13-45
 	android:name
-		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:225:13-54
+		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:223:13-58
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:227:13-231:29
+ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:225:13-229:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:228:17-69
+ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:226:17-69
 	android:name
-		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:228:25-66
+		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:226:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:230:17-77
+ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:228:17-77
 	android:name
-		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:230:27-74
-activity#com.cropimage.page_2_Activity
-ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:233:9-236:20
+		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:228:27-74
+activity#com.cropimage.MainActivity
+ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:233:9-241:20
 	android:label
 		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:235:13-45
 	android:name
-		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:234:13-57
+		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:234:13-54
+activity#com.cropimage.page_2_Activity
+ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:242:9-245:20
+	android:label
+		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:244:13-45
+	android:name
+		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:243:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:247:9-256:20
+MERGED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.16.1\AndroidManifest.xml:33:9-36:20
+	android:exported
+		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:249:13-36
+	android:name
+		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:248:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:250:13-255:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:251:17-69
+	android:name
+		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:251:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:252:17-76
+	android:name
+		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:252:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:253:17-78
+	android:name
+		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:253:27-75
+data
+ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:254:17-75
+	android:scheme
+		ADDED from C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\src\main\AndroidManifest.xml:254:23-72
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:20:9-22:45
 MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:20:9-22:45
@@ -1041,10 +1072,6 @@ ADDED from [com.adlocus:library:3.5.2] C:\Users\HYXEN20141227\Documents\-Assista
 		ADDED from [com.adlocus:library:3.5.2] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.adlocus\library\3.5.2\AndroidManifest.xml:43:13-56
 intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.DEFAULT
 ADDED from [com.adlocus:library:3.5.2] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.adlocus\library\3.5.2\AndroidManifest.xml:46:13-50:29
-category#android.intent.category.DEFAULT
-ADDED from [com.adlocus:library:3.5.2] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.adlocus\library\3.5.2\AndroidManifest.xml:49:17-76
-	android:name
-		ADDED from [com.adlocus:library:3.5.2] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.adlocus\library\3.5.2\AndroidManifest.xml:49:27-73
 intent-filter#com.adlocus.action.RECEIVE
 ADDED from [com.adlocus:library:3.5.2] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.adlocus\library\3.5.2\AndroidManifest.xml:51:13-53:29
 action#com.adlocus.action.RECEIVE
@@ -1160,12 +1187,6 @@ MERGED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\HYXEN
 		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\AndroidManifest.xml:31:13-50
 	android:name
 		ADDED from [com.google.android.gms:play-services-ads-lite:9.0.0] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\AndroidManifest.xml:30:19-91
-activity#com.facebook.CustomTabActivity
-ADDED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.16.1\AndroidManifest.xml:33:9-36:20
-	android:exported
-		ADDED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.16.1\AndroidManifest.xml:35:13-36
-	android:name
-		ADDED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.16.1\AndroidManifest.xml:34:13-58
 activity#com.facebook.CustomTabMainActivity
 ADDED from [com.facebook.android:facebook-android-sdk:4.16.1] C:\Users\HYXEN20141227\Documents\-AssistantGUI\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.16.1\AndroidManifest.xml:37:9-71
 	android:name

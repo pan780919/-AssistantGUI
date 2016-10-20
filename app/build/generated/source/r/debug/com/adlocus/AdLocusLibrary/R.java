@@ -139,25 +139,25 @@ public final class R {
 		public static final int sl_bigview_btn_bg = 0x7f020133;
 	}
 	public static final class id {
-		public static final int ProMe_NotificationClickIcon = 0x7f0e00d7;
-		public static final int ProMe_NotificationIcon = 0x7f0e00d5;
-		public static final int ProMe_NotificationImage = 0x7f0e00d4;
-		public static final int ProMe_NotificationLayout = 0x7f0e00d3;
-		public static final int ProMe_NotificationLogo = 0x7f0e00d8;
-		public static final int ProMe_NotificationText = 0x7f0e00d6;
-		public static final int b_button_look = 0x7f0e00a3;
-		public static final int b_button_setting = 0x7f0e00a2;
-		public static final int b_button_share = 0x7f0e00a4;
-		public static final int b_content = 0x7f0e00a0;
-		public static final int b_imageview_bigimage = 0x7f0e00a1;
-		public static final int b_imageview_icon = 0x7f0e009d;
-		public static final int b_textview_subtitle = 0x7f0e009f;
-		public static final int b_textview_title = 0x7f0e009e;
+		public static final int ProMe_NotificationClickIcon = 0x7f0e00da;
+		public static final int ProMe_NotificationIcon = 0x7f0e00d8;
+		public static final int ProMe_NotificationImage = 0x7f0e00d7;
+		public static final int ProMe_NotificationLayout = 0x7f0e00d6;
+		public static final int ProMe_NotificationLogo = 0x7f0e00db;
+		public static final int ProMe_NotificationText = 0x7f0e00d9;
+		public static final int b_button_look = 0x7f0e00a6;
+		public static final int b_button_setting = 0x7f0e00a5;
+		public static final int b_button_share = 0x7f0e00a7;
+		public static final int b_content = 0x7f0e00a3;
+		public static final int b_imageview_bigimage = 0x7f0e00a4;
+		public static final int b_imageview_icon = 0x7f0e00a0;
+		public static final int b_textview_subtitle = 0x7f0e00a2;
+		public static final int b_textview_title = 0x7f0e00a1;
 	}
 	public static final class layout {
 		public static final int bv_basic = 0x7f04001d;
 		public static final int bv_content = 0x7f04001e;
-		public static final int prome_layout = 0x7f040042;
+		public static final int prome_layout = 0x7f040041;
 	}
 	public static final class string {
 		public static final int app_name = 0x7f07004c;

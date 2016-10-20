@@ -37,6 +37,7 @@
             android:layout_marginLeft="80dp"
             android:text="開始後置作業" />
 
+
     </LinearLayout>
 
     <LinearLayout

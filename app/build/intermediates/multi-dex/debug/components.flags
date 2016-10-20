@@ -105,11 +105,19 @@
     <init>();
 }
 
+-keep class com.cropimage.HeadPageActivity {
+    <init>();
+}
+
 -keep class com.cropimage.MainActivity {
     <init>();
 }
 
 -keep class com.cropimage.page_2_Activity {
+    <init>();
+}
+
+-keep class com.facebook.CustomTabActivity {
     <init>();
 }
 
@@ -166,10 +174,6 @@
 }
 
 -keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
-    <init>();
-}
-
--keep class com.facebook.CustomTabActivity {
     <init>();
 }
 

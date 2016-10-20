@@ -652,6 +652,7 @@
     <string name="crop_image_title">相片裁剪</string>
     <string name="decline">Decline</string>
     <string name="default_web_client_id" translatable="false">288164734372-e6srsdkb53id69lgkendti7anv1bhcm9.apps.googleusercontent.com</string>
+    <string name="fb_login_protocol_scheme">583698071813390</string>
     <string name="firebase_database_url" translatable="false">https://sevenpeoplebook.firebaseio.com</string>
     <string name="ga_trackingId">UA-58399132-50</string>
     <string name="gcm_defaultSenderId" translatable="false">288164734372</string>
