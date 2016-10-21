@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\res\\merged\\debug\\menu\\meun.xml",
-        "source": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\src\\main\\res\\menu\\meun.xml"
+        "merged": "/Users/jackpan/-AssistantGUI/C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\res\\merged\\debug\\menu\\meun.xml",
+        "source": "/Users/jackpan/-AssistantGUI/C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\src\\main\\res\\menu\\meun.xml"
+    },
+    {
+        "merged": "/Users/jackpan/-AssistantGUI/app/build/intermediates/res/merged/debug/menu/meun.xml",
+        "source": "/Users/jackpan/-AssistantGUI/app/src/main/res/menu/meun.xml"
     }
 ]

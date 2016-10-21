@@ -3,7 +3,7 @@
     package="com.jhengweipan.AssistantGUI.test" >
 
     <uses-sdk
-        android:minSdkVersion="18"
+        android:minSdkVersion="15"
         android:targetSdkVersion="23" />
 
     <instrumentation
