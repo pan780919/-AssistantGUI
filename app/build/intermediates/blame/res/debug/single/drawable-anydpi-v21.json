@@ -1,26 +1,14 @@
 [
     {
-        "merged": "/Users/jackpan/-AssistantGUI/C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\com_facebook_favicon_blue.xml",
-        "source": "/Users/jackpan/-AssistantGUI/C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\com_facebook_favicon_blue.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\compose_tools_icon_confirm_click.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\compose_tools_icon_confirm_click.xml"
     },
     {
-        "merged": "/Users/jackpan/-AssistantGUI/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/com_facebook_favicon_blue.xml",
-        "source": "/Users/jackpan/-AssistantGUI/app/build/generated/res/pngs/debug/drawable-anydpi-v21/com_facebook_favicon_blue.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\navi_icon_back2.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\navi_icon_back2.xml"
     },
     {
-        "merged": "/Users/jackpan/-AssistantGUI/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/navi_icon_back2.xml",
-        "source": "/Users/jackpan/-AssistantGUI/app/build/generated/res/pngs/debug/drawable-anydpi-v21/navi_icon_back2.xml"
-    },
-    {
-        "merged": "/Users/jackpan/-AssistantGUI/C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\compose_tools_icon_confirm_click.xml",
-        "source": "/Users/jackpan/-AssistantGUI/C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\compose_tools_icon_confirm_click.xml"
-    },
-    {
-        "merged": "/Users/jackpan/-AssistantGUI/C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\navi_icon_back2.xml",
-        "source": "/Users/jackpan/-AssistantGUI/C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\navi_icon_back2.xml"
-    },
-    {
-        "merged": "/Users/jackpan/-AssistantGUI/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/compose_tools_icon_confirm_click.xml",
-        "source": "/Users/jackpan/-AssistantGUI/app/build/generated/res/pngs/debug/drawable-anydpi-v21/compose_tools_icon_confirm_click.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\com_facebook_favicon_blue.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\com_facebook_favicon_blue.xml"
     }
 ]
