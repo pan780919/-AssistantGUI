@@ -10,7 +10,9 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 import android.app.Activity;
+import android.app.AlertDialog;
 import android.app.ProgressDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
@@ -23,6 +25,7 @@ import android.provider.ContactsContract;
 import android.util.Base64;
 import android.util.Log;
 import android.view.Gravity;
+import android.view.KeyEvent;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -68,13 +71,14 @@ public class HeadPageActivity extends Activity {
 	boolean change=true;
 	private TextView test;
 	private LoginButton loginButton;
-	private InterstitialVideoReq mInterstitialVideoReq;
+
 	CallbackManager callbackManager;
 	AccessTokenTracker accessTokenTracker ;
 	ProfileTracker  profileTracker;
 	private static final String TAG = "HeadPageActivity";
 	private ImageView fbImg;
 	private  TextView fbName;
+	 InterstitialAd interstitialAd;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -90,7 +94,7 @@ public class HeadPageActivity extends Activity {
 		test=(TextView)findViewById(R.id.textView1);
 
 		Timer timer = new Timer();
-		final InterstitialAd interstitialAd = new InterstitialAd(this, "2879057fde4e8158577744b379d544d98b30457d");
+		 interstitialAd = new InterstitialAd(this, "2879057fde4e8158577744b379d544d98b30457d");
 		interstitialAd.loadAd();
 		AdView mAdView = (AdView) findViewById(R.id.adView);
 		AdRequest adRequest = new AdRequest.Builder().build();
@@ -212,6 +216,50 @@ public class HeadPageActivity extends Activity {
 	protected void onDestroy() {
 		super.onDestroy();
 		profileTracker.stopTracking();
+
+	}
+	public boolean onKeyDown(int keyCode, KeyEvent event) {
+
+		if ((keyCode == KeyEvent.KEYCODE_BACK)) {   //確定按下退出鍵
+
+			ConfirmExit(); //呼叫ConfirmExit()函數
+
+			return true;
+
+		}
+
+		return super.onKeyDown(keyCode, event);
+
+	}
+
+	public void ConfirmExit() {
+
+		AlertDialog.Builder ad = new AlertDialog.Builder(HeadPageActivity.this); //創建訊息方塊
+
+		ad.setTitle("離開");
+
+		ad.setMessage("確定要離開?");
+
+		ad.setPositiveButton("是", new DialogInterface.OnClickListener() { //按"是",則退出應用程式
+
+			public void onClick(DialogInterface dialog, int i) {
+				interstitialAd.show();
+				HeadPageActivity.this.finish();//關閉activity
+
+			}
+
+		});
+
+		ad.setNegativeButton("否", new DialogInterface.OnClickListener() { //按"否",則不執行任何操作
+
+			public void onClick(DialogInterface dialog, int i) {
+
+			}
+
+		});
+
+		ad.show();//顯示訊息視窗
+
 
 	}
 }

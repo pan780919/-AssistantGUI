@@ -375,49 +375,6 @@ public class MainActivity extends Activity {
         Log.d(TAG, "getAppList: " + jsonArray.toString());
 
     }
-    public boolean onKeyDown(int keyCode, KeyEvent event) {
 
-        if ((keyCode == KeyEvent.KEYCODE_BACK)) {   //確定按下退出鍵
-
-            ConfirmExit(); //呼叫ConfirmExit()函數
-
-            return true;
-
-        }
-
-        return super.onKeyDown(keyCode, event);
-
-    }
-
-    public void ConfirmExit() {
-
-        AlertDialog.Builder ad = new AlertDialog.Builder(MainActivity.this); //創建訊息方塊
-
-        ad.setTitle("離開");
-
-        ad.setMessage("確定要離開?");
-
-        ad.setPositiveButton("是", new DialogInterface.OnClickListener() { //按"是",則退出應用程式
-
-            public void onClick(DialogInterface dialog, int i) {
-                interstitial.show();
-                MainActivity.this.finish();//關閉activity
-
-            }
-
-        });
-
-        ad.setNegativeButton("否", new DialogInterface.OnClickListener() { //按"否",則不執行任何操作
-
-            public void onClick(DialogInterface dialog, int i) {
-
-            }
-
-        });
-
-        ad.show();//顯示訊息視窗
-
-
-    }
 
 }
