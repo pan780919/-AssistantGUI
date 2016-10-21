@@ -59,6 +59,7 @@ import com.facebook.login.widget.LoginButton;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.jhengweipan.Guandisignonehundred.R;
+import com.jhengweipan.ga.MyGAManager;
 
 import org.json.JSONObject;
 
@@ -83,29 +84,11 @@ public class HeadPageActivity extends Activity {
 		FacebookSdk.sdkInitialize(getApplicationContext());
 		callbackManager = CallbackManager.Factory.create();
 		setContentView(R.layout.activity_head_page);
+		MyApi.configVersionCheck(HeadPageActivity.this);
 		fbLogin();
-
-
-		try {
-			PackageInfo info = getPackageManager().getPackageInfo(
-					"com.jhengweipan.AssistantGUI",
-					PackageManager.GET_SIGNATURES);
-			for (Signature signature : info.signatures) {
-				MessageDigest md = MessageDigest.getInstance("SHA");
-				md.update(signature.toByteArray());
-				Log.d("KeyHash:", Base64.encodeToString(md.digest(), Base64.DEFAULT));
-			}
-		} catch (PackageManager.NameNotFoundException e) {
-
-		} catch (NoSuchAlgorithmException e) {
-
-		}
-
-
+		MyGAManager.sendScreenName(HeadPageActivity.this,"首頁");
 		test=(TextView)findViewById(R.id.textView1);
 
-
-		RelativeLayout myLayout=(RelativeLayout)findViewById(R.id.myLayout);
 		Timer timer = new Timer();
 		final InterstitialAd interstitialAd = new InterstitialAd(this, "2879057fde4e8158577744b379d544d98b30457d");
 		interstitialAd.loadAd();
@@ -163,14 +146,6 @@ public class HeadPageActivity extends Activity {
 
 
 	}
-
-	@Override
-	protected void onResume() {
-		super.onResume();
-
-
-	}
-
 	@Override
 	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 		super.onActivityResult(requestCode, resultCode, data);
@@ -197,11 +172,6 @@ public class HeadPageActivity extends Activity {
 					//登出後
 					fbName.setText("");
 					 fbImg.setImageBitmap(null);
-					Log.d(TAG, "oldProfile: "+oldProfile.getProfilePictureUri(150, 150));
-					Log.d(TAG, "oldProfile: " + oldProfile.getId());
-					Log.d(TAG, "oldProfile: " + oldProfile.getFirstName());
-					Log.d(TAG, "oldProfile: " + oldProfile.getLastName());
-					Log.d(TAG, "oldProfile: " + oldProfile.getLinkUri());
 
 				}
 
