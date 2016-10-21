@@ -60,6 +60,8 @@ import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.jhengweipan.Guandisignonehundred.R;
 
+import org.json.JSONObject;
+
 
 public class HeadPageActivity extends Activity {
 	boolean change=true;
@@ -221,6 +223,8 @@ public class HeadPageActivity extends Activity {
 		profileTracker.startTracking();
 		if(profileTracker.isTracking()){
 			Log.d(getClass().getSimpleName(), "profile currentProfile Tracking: " + "yes");
+			if(Profile.getCurrentProfile()==null)return;
+
 			if(Profile.getCurrentProfile().getName()!=null)	fbName.setText(Profile.getCurrentProfile().getName());
 			if(Profile.getCurrentProfile().getProfilePictureUri(150, 150)!=null)	MyApi.loadImage(String.valueOf(Profile.getCurrentProfile().getProfilePictureUri(150, 150)),fbImg, HeadPageActivity.this);
 		}
@@ -228,37 +232,8 @@ public class HeadPageActivity extends Activity {
 
 		else
 			Log.d(getClass().getSimpleName(), "profile currentProfile Tracking: " + "no");
-//		LoginManager.getInstance().registerCallback(callbackManager, new FacebookCallback<LoginResult>() {
-//			@Override
-//				public void onSuccess(LoginResult loginResult) {
-//
-////				/* make the API call */
-////				new GraphRequest(
-////						AccessToken.getCurrentAccessToken(),
-////						"/me/friends",
-////						null,
-////						HttpMethod.GET,
-////						new GraphRequest.Callback() {
-////							public void onCompleted(GraphResponse response) {
-////								Log.d(TAG, "onCompleted: "+response.toString());
-////			/* handle the result */
-////							}
-////						}
-////				).executeAsync();
-////
-//
-//			}
-//
-//			@Override
-//			public void onCancel() {
-//
-//			}
-//
-//			@Override
-//			public void onError(FacebookException error) {
-//
-//			}
-//		});
+
+
 
 	}
 

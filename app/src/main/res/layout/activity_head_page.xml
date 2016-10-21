@@ -3,7 +3,8 @@
     xmlns:ads="http://schemas.android.com/apk/res-auto"
     android:id="@+id/myLayout"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/myicon">
     <ImageView
         android:layout_above="@+id/fbname"
         android:id="@+id/fdimg"

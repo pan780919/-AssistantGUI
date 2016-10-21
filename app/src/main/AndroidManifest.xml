@@ -46,7 +46,7 @@
     <application
         android:name="android.support.multidex.MultiDexApplication"
         android:allowBackup="true"
-        android:icon="@drawable/tattooicon"
+        android:icon="@drawable/myicon"
         android:label="@string/app_name"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         <!-- use faceb -->
@@ -207,10 +207,7 @@
             </intent-filter>
         </service>
 
-        <activity
-            android:name="com.jhengweipan.tattoofans.MyHeadPageActivity"
-            android:label="@string/title_activity_head_page"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+
         <activity
             android:name="com.jhengweipan.ImageViewActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"
