@@ -1,11 +1,13 @@
 package com.cropimage;
 
 import android.app.Activity;
+import android.app.AlertDialog;
 import android.app.Notification;
 import android.app.NotificationManager;
 import android.app.PendingIntent;
 import android.content.BroadcastReceiver;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -15,6 +17,7 @@ import android.widget.ImageView;
 
 import com.facebook.login.widget.LoginButton;
 import com.jhengweipan.Guandisignonehundred.R;
+import com.jhengweipan.MyAPI.VersionChecker;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -92,6 +95,31 @@ public class MyApi {
 
 
         }.start();
+
+    }
+    public static  void configVersionCheck(final  Context context) {
+
+//        if (!GtApi.checkNetwork(IndexActivity.this)) return;
+
+        VersionChecker.checkOnce(context, new VersionChecker.DoneAdapter() {
+
+            @Override
+            public void onHasNewVersion() {
+                new AlertDialog.Builder(context)
+                        .setTitle("已有最新版本!")
+                        .setMessage("目前有最新版本上架,請盡快更新")
+                        .setNegativeButton("確定", new DialogInterface.OnClickListener() {
+                            @Override
+                            public void onClick(DialogInterface dialog, int which) {
+                                context.startActivity(VersionChecker.openMartketIntent());
+                                dialog.dismiss();
+                            }
+                        })
+                        .show();
+            }
+
+
+        });
 
     }
 }

@@ -41,6 +41,7 @@ import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
 import com.jhengweipan.Guandisignonehundred.R;
 import com.jhengweipan.MyAPI.VersionChecker;
+import com.jhengweipan.ga.MyGAManager;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -65,6 +66,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        MyGAManager.sendScreenName(MainActivity.this,"開啟檔案頁面");
         AdView mAdView = (AdView) findViewById(R.id.adView);
 
         interstitial = new InterstitialAd(this);
@@ -74,7 +76,6 @@ public class MainActivity extends Activity {
         mAdView.loadAd(adRequest);
         Intent promotionIntent = new Intent(this, MainActivity.class);
         PushAd.enablePush(MainActivity.this, mykey.AdLoucsKey, promotionIntent);
-        configVersionCheck();
         getAppList();
         //讀取手機解析度
         mPhone = new DisplayMetrics();
@@ -95,15 +96,17 @@ public class MainActivity extends Activity {
                             public void onClick(DialogInterface dialog, int which) {
                                 // TODO Auto-generated method stub
                                 getPermissionCAMERA();
+                                MyGAManager.sendActionName(MainActivity.this,"開啟方式","開啟相機");
                             }
 
                         })
-                        .setNegativeButton("開啟本機找一張!!", new DialogInterface.OnClickListener() {
+                        .setNegativeButton("開啟相簿找一張!!", new DialogInterface.OnClickListener() {
 
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
                                 // TODO Auto-generated method stub
                                 READEXTERNALSTORAGE();
+                                MyGAManager.sendActionName(MainActivity.this,"開啟方式","開啟相簿");
                             }
 
                         }).show();
@@ -331,31 +334,7 @@ public class MainActivity extends Activity {
             // permissions this app might request
         }
     }
-    private void configVersionCheck() {
 
-//        if (!GtApi.checkNetwork(IndexActivity.this)) return;
-
-        VersionChecker.checkOnce(this, new VersionChecker.DoneAdapter() {
-
-            @Override
-            public void onHasNewVersion() {
-                new AlertDialog.Builder(MainActivity.this)
-                        .setTitle("已有最新版本!")
-                        .setMessage("目前有最新版本上架,請盡快更新")
-                        .setNegativeButton("確定", new DialogInterface.OnClickListener() {
-                            @Override
-                            public void onClick(DialogInterface dialog, int which) {
-                                startActivity(VersionChecker.openMartketIntent());
-                                dialog.dismiss();
-                            }
-                        })
-                        .show();
-            }
-
-
-        });
-
-    }
     private void getAppList() {
         PackageManager packageManager = this.getPackageManager();
         List<PackageInfo> packageInfoList = packageManager.getInstalledPackages(0);
