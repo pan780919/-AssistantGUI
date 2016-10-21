@@ -55,7 +55,6 @@ com/adlocus/push/k.class
 android/support/design/widget/ViewOffsetBehavior.class
 com/igexin/download/h.class
 com/igexin/getuiext/ui/promotion/UrlImageView.class
-com/cropimage/HeadPageActivity$5.class
 android/support/annotation/StringDef.class
 android/support/v4/media/MediaBrowserCompat$ItemReceiver.class
 com/google/android/gms/ads/internal/client/AdRequestParcel.class
@@ -223,7 +222,6 @@ android/support/v4/view/VelocityTrackerCompat.class
 com/igexin/getuiext/service/j.class
 com/google/firebase/iid/FirebaseInstanceIdService.class
 com/google/android/gms/internal/zzjl.class
-com/facebook/ProfileTracker.class
 com/facebook/FacebookContentProvider.class
 com/google/android/gms/internal/zzgn.class
 com/google/android/gms/internal/zzcu.class
@@ -349,7 +347,6 @@ android/support/v4/content/WakefulBroadcastReceiver.class
 android/support/v4/app/BackStackRecord$TransitionState.class
 com/google/android/gms/internal/zzfi.class
 com/facebook/ads/AdError.class
-com/facebook/login/LoginManager.class
 android/support/v7/widget/LinearLayoutCompat$LayoutParams.class
 com/google/android/gms/ads/internal/zzi.class
 android/support/v4/widget/MaterialProgressDrawable$2.class
@@ -431,7 +428,6 @@ com/bumptech/glide/load/model/GenericLoaderFactory.class
 com/jhengweipan/Guandisignonehundred/R$layout.class
 com/igexin/sdk/aidl/UserServiceListener.class
 android/support/design/widget/Snackbar$9.class
-com/cropimage/HeadPageActivity$4.class
 android/support/design/widget/Snackbar$10.class
 android/support/annotation/MainThread.class
 com/google/android/gms/ads/internal/reward/client/RewardedVideoAdRequestParcel.class
@@ -770,7 +766,6 @@ com/google/android/gms/ads/internal/purchase/zzd.class
 com/google/android/gms/internal/zzhy.class
 android/support/multidex/MultiDex$V14.class
 com/google/android/gms/ads/internal/overlay/zzd$zzd.class
-com/facebook/AccessTokenTracker.class
 com/igexin/push/e/k.class
 com/google/ads/mediation/MediationServerParameters.class
 com/google/android/gms/internal/zzby.class

@@ -75,8 +75,7 @@ public class HeadPageActivity extends Activity {
 		setContentView(R.layout.activity_head_page);
 		fbLogin();
 		test=(TextView)findViewById(R.id.textView1);
-		fbImg  =(ImageView )findViewById(R.id.fdimg);
-		fbName  =(TextView ) findViewById(R.id.fbname);
+
 
 		RelativeLayout myLayout=(RelativeLayout)findViewById(R.id.myLayout);
 		Timer timer = new Timer();
@@ -158,6 +157,13 @@ public class HeadPageActivity extends Activity {
 
 
 	}
+
+	@Override
+	protected void onResume() {
+		super.onResume();
+
+	}
+
 	@Override
 	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 		super.onActivityResult(requestCode, resultCode, data);
@@ -166,40 +172,36 @@ public class HeadPageActivity extends Activity {
 	private  void fbLogin(){
 		 List<String> PERMISSIONS_PUBLISH = Arrays.asList("public_profile", "email","user_friends");
 		loginButton = (LoginButton) findViewById(R.id.login_button);
-
+		fbImg  =(ImageView )findViewById(R.id.fdimg);
+		fbName  =(TextView ) findViewById(R.id.fbname);
 		loginButton.setReadPermissions(PERMISSIONS_PUBLISH);
-
-		accessTokenTracker = new AccessTokenTracker() {
-			@Override
-			protected void onCurrentAccessTokenChanged(AccessToken oldAccessToken, AccessToken currentAccessToken) {
-			}
-		};
-		profileTracker = new ProfileTracker() {
-			@Override
-			protected void onCurrentProfileChanged(Profile oldProfile, Profile currentProfile) {
-				if(currentProfile!=null){
-					fbName.setVisibility(View.VISIBLE);
-					fbImg.setVisibility(View.VISIBLE);
-					fbName.setText(currentProfile.getFirstName()+currentProfile.getLastName());
-					MyApi.loadImage(String.valueOf(currentProfile.getProfilePictureUri(150,150)),fbImg,HeadPageActivity.this);
-
-					Log.d(TAG, "onCurrentProfileChanged: "+currentProfile.getProfilePictureUri(150,150));
-					Log.d(TAG, "onCurrentProfileChanged: "+currentProfile.getId());
-					Log.d(TAG, "onCurrentProfileChanged: "+currentProfile.getFirstName());
-					Log.d(TAG, "onCurrentProfileChanged: "+currentProfile.getLastName());
-					Log.d(TAG, "onCurrentProfileChanged: "+currentProfile.getLinkUri());
-
-
-				}else {
-					fbName.setVisibility(View.GONE);
-					fbImg.setVisibility(View.GONE);
-				}
-
-			}
-		};
-		LoginManager.getInstance().registerCallback(callbackManager, new FacebookCallback<LoginResult>() {
+//
+//		accessTokenTracker = new AccessTokenTracker() {
+//			@Override
+//			protected void onCurrentAccessTokenChanged(AccessToken oldAccessToken, AccessToken currentAccessToken) {
+//			}
+//		};
+		loginButton.registerCallback(callbackManager, new FacebookCallback<LoginResult>() {
 			@Override
 				public void onSuccess(LoginResult loginResult) {
+				Log.d(TAG, "onSuccess: "+Profile.getCurrentProfile());
+				profileTracker = new ProfileTracker() {
+					@Override
+					protected void onCurrentProfileChanged(Profile oldProfile, Profile currentProfile) {
+						if(currentProfile!=null){
+							fbName.setVisibility(View.VISIBLE);
+							fbImg.setVisibility(View.VISIBLE);
+							fbName.setText(currentProfile.getFirstName()+currentProfile.getLastName());
+							MyApi.loadImage(String.valueOf(currentProfile.getProfilePictureUri(150,150)),fbImg,HeadPageActivity.this);
+							Log.d(TAG, "onCurrentProfileChanged: "+currentProfile.getProfilePictureUri(150,150));
+							Log.d(TAG, "onCurrentProfileChanged: "+currentProfile.getId());
+							Log.d(TAG, "onCurrentProfileChanged: "+currentProfile.getFirstName());
+							Log.d(TAG, "onCurrentProfileChanged: "+currentProfile.getLastName());
+							Log.d(TAG, "onCurrentProfileChanged: "+currentProfile.getLinkUri());
+						}
+
+					}
+				};
 
 //				/* make the API call */
 //				new GraphRequest(
@@ -220,22 +222,24 @@ public class HeadPageActivity extends Activity {
 
 			@Override
 			public void onCancel() {
-
+				Log.d(TAG, "onCancel: ");
 			}
 
 			@Override
 			public void onError(FacebookException error) {
-
+				Log.d(TAG, "onError: ");
 			}
 		});
 
 	}
 
+
 	@Override
 	protected void onDestroy() {
 		super.onDestroy();
-		accessTokenTracker.stopTracking();
-		profileTracker.stopTracking();
+
+//		profileTracker.stopTracking();
+
 	}
 }
 
