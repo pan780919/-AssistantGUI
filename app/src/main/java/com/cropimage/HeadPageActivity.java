@@ -159,7 +159,16 @@ public class HeadPageActivity extends Activity {
 		});
 
 
+
 	}
+
+	@Override
+	protected void onResume() {
+		super.onResume();
+
+
+	}
+
 	@Override
 	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 		super.onActivityResult(requestCode, resultCode, data);
@@ -172,17 +181,18 @@ public class HeadPageActivity extends Activity {
 		fbName  =(TextView ) findViewById(R.id.fbname);
 		loginButton.setReadPermissions(PERMISSIONS_PUBLISH);
 
+
 //		accessTokenTracker = new AccessTokenTracker() {
 //			@Override
 //			protected void onCurrentAccessTokenChanged(AccessToken oldAccessToken, AccessToken currentAccessToken) {
 //			}
 //		};
+
 		profileTracker = new ProfileTracker() {
 			@Override
 			protected void onCurrentProfileChanged(Profile oldProfile, Profile currentProfile) {
 				if(oldProfile!=null){
 					//登出後
-
 					fbName.setText("");
 					 fbImg.setImageBitmap(null);
 					Log.d(TAG, "oldProfile: "+oldProfile.getProfilePictureUri(150, 150));
@@ -195,10 +205,8 @@ public class HeadPageActivity extends Activity {
 
 				if(currentProfile!=null){
 					 //登入
-
 					fbName.setText(currentProfile.getName());
 					MyApi.loadImage(String.valueOf(currentProfile.getProfilePictureUri(150,150)),fbImg,HeadPageActivity.this);
-
 					Log.d(TAG, "currentProfile: "+currentProfile.getProfilePictureUri(150,150));
 					Log.d(TAG, "currentProfile: "+currentProfile.getId());
 					Log.d(TAG, "currentProfile: "+currentProfile.getFirstName());
@@ -211,18 +219,15 @@ public class HeadPageActivity extends Activity {
 			}
 		};
 		profileTracker.startTracking();
-
 		if(profileTracker.isTracking()){
 			Log.d(getClass().getSimpleName(), "profile currentProfile Tracking: " + "yes");
 			if(Profile.getCurrentProfile().getName()!=null)	fbName.setText(Profile.getCurrentProfile().getName());
-
 			if(Profile.getCurrentProfile().getProfilePictureUri(150, 150)!=null)	MyApi.loadImage(String.valueOf(Profile.getCurrentProfile().getProfilePictureUri(150, 150)),fbImg, HeadPageActivity.this);
 		}
 
 
 		else
 			Log.d(getClass().getSimpleName(), "profile currentProfile Tracking: " + "no");
-//
 //		LoginManager.getInstance().registerCallback(callbackManager, new FacebookCallback<LoginResult>() {
 //			@Override
 //				public void onSuccess(LoginResult loginResult) {
@@ -257,11 +262,12 @@ public class HeadPageActivity extends Activity {
 
 	}
 
+
 	@Override
 	protected void onDestroy() {
 		super.onDestroy();
-//		accessTokenTracker.stopTracking();
 		profileTracker.stopTracking();
+
 	}
 }
 

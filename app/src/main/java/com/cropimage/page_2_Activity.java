@@ -94,13 +94,11 @@ public class page_2_Activity extends Activity {
 //					shareDialog.show(linkContent);
 //				}
                 if (ShareDialog.canShow(SharePhotoContent.class)) {
-                    Log.d(TAG, "onClick: in");
                     SharePhoto photo = new SharePhoto.Builder()
                             .setBitmap(bitamp)
                             .build();
                     SharePhotoContent sharePhoto = new SharePhotoContent.Builder()
                             .addPhoto(photo)
-                            .setContentUrl(Uri.parse("https://play.google.com/store/apps/details?id=com.jackpan.TaiwanpetadoptionApp"))
                             .build();
                     shareDialog.show(sharePhoto);
                 }
