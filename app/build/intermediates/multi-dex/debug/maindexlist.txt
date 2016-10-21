@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 com/bumptech/glide/GlideBuilder.class
 com/google/android/gms/internal/zzdq.class
@@ -1100,6 +1101,8 @@ com/facebook/R$layout.class
 com/google/android/gms/internal/zzkj.class
 com/nostra13/universalimageloader/utils/L.class
 =======
+=======
+>>>>>>> origin/master
 com/google/firebase/provider/FirebaseInitProvider.class
 
 android/support/v7/widget/RecyclerView$6.class
@@ -2201,5 +2204,9 @@ com/google/android/gms/ads/internal/reward/client/zzf.class
 android/support/v7/widget/ViewInfoStore.class
 android/support/v4/media/MediaBrowserCompat$SubscriptionCallback.class
 android/support/design/widget/AppBarLayout$LayoutParams$ScrollFlags.class
+<<<<<<< HEAD
+com/facebook/ads/internal/i/d$a.class
+>>>>>>> origin/master
+=======
 com/facebook/ads/internal/i/d$a.class
 >>>>>>> origin/master

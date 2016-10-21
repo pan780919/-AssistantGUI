@@ -13,6 +13,7 @@
   </component>
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="d0e9c23b-a7da-4bb2-8800-2b7320c1fd38" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/cropimage/HeadPageActivity$4.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/cropimage/HeadPageActivity$5.class" afterPath="" />
@@ -41,6 +42,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/cropimage/HeadPageActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/cropimage/HeadPageActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/cropimage/page_2_Activity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/cropimage/page_2_Activity.java" />
     </list>
+=======
+    <list default="true" id="0fc24899-a471-47fc-8efd-24164f588adb" name="Default" comment="" />
+>>>>>>> origin/master
 =======
     <list default="true" id="0fc24899-a471-47fc-8efd-24164f588adb" name="Default" comment="" />
 >>>>>>> origin/master
@@ -86,6 +90,7 @@
         </entry>
       </file>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="page_2_Activity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cropimage/page_2_Activity.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,6 +103,14 @@
                 <element signature="e#2839#4065#0" expanded="true" />
                 <element signature="e#4064#4065#0" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="MyApi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cropimage/MyApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="55" column="51" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="51" />
+              <folding />
+>>>>>>> origin/master
 =======
       <file leaf-file-name="MyApi.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cropimage/MyApi.java">
@@ -124,6 +137,7 @@
         </entry>
       </file>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="HeadPageActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cropimage/HeadPageActivity.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -144,6 +158,10 @@
       </file>
       <file leaf-file-name="MyApi.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cropimage/MyApi.java">
+=======
+      <file leaf-file-name="Bitmap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-23/android/graphics/Bitmap.java">
+>>>>>>> origin/master
 =======
       <file leaf-file-name="Bitmap.java" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-23/android/graphics/Bitmap.java">
@@ -181,7 +199,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
 <<<<<<< HEAD
+<<<<<<< HEAD
               <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+=======
+              <caret line="90" column="29" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="29" />
+>>>>>>> origin/master
 =======
               <caret line="90" column="29" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="29" />
 >>>>>>> origin/master
@@ -2059,6 +2081,7 @@
       <list>
         <option value="$PROJECT_DIR$/app/build.gradle" />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/app/src/main/java/myAppKey/mykey.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/floating.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/cropimage/MainActivity.java" />
@@ -2071,6 +2094,11 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_head_page.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/cropimage/HeadPageActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/cropimage/page_2_Activity.java" />
+=======
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cropimage/page_2_Activity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_head_page.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cropimage/HeadPageActivity.java" />
+>>>>>>> origin/master
 =======
         <option value="$PROJECT_DIR$/app/src/main/java/com/cropimage/page_2_Activity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_head_page.xml" />
@@ -2382,6 +2410,7 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -2392,17 +2421,23 @@
       <option name="number" value="Default" />
       <updated>1475641562687</updated>
 =======
+=======
+>>>>>>> origin/master
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0fc24899-a471-47fc-8efd-24164f588adb" name="Default" comment="" />
       <created>1476976463972</created>
       <option name="number" value="Default" />
       <updated>1476976463972</updated>
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
     <editor active="true" />
@@ -2446,6 +2481,8 @@
     </option>
   </component>
 =======
+=======
+>>>>>>> origin/master
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
@@ -2481,6 +2518,9 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -2489,6 +2529,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
+<<<<<<< HEAD
 <<<<<<< HEAD
           <url>file://$PROJECT_DIR$/app/src/main/java/com/jhengweipan/tattoofans/MenuListActivity.java</url>
           <line>55</line>
@@ -2503,17 +2544,23 @@
       </breakpoints>
       <option name="time" value="3" />
 =======
+=======
+>>>>>>> origin/master
           <url>file://$PROJECT_DIR$/app/src/main/java/com/cropimage/page_2_Activity.java</url>
           <line>98</line>
           <properties />
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="1" />
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
@@ -2601,6 +2648,8 @@
     </entry>
 =======
 >>>>>>> origin/master
+=======
+>>>>>>> origin/master
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2621,6 +2670,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2640,18 +2690,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> origin/master
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-23/android/graphics/Bitmap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1016" column="19" selection-start-line="1016" selection-start-column="19" selection-end-line="1016" selection-end-column="19" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="21" />
+>>>>>>> origin/master
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cropimage/page_2_Activity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.9787879">
@@ -2670,10 +2733,25 @@
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+=======
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-android-sdk/4.16.1/fc12b3c982cd78b884fac44a1e662fb71dc8879d/facebook-android-sdk-4.16.1-sources.jar!/com/facebook/share/model/SharePhotoContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-23/android/graphics/Bitmap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1016" column="19" selection-start-line="1016" selection-start-column="19" selection-end-line="1016" selection-end-column="19" />
+>>>>>>> origin/master
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cropimage/MyApi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2684,11 +2762,21 @@
             <element signature="e#2643#2911#0" expanded="true" />
             <element signature="e#2910#2911#0" expanded="true" />
             <element signature="e#3287#3288#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cropimage/page_2_Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9787879">
+          <caret line="146" column="23" selection-start-line="146" selection-start-column="23" selection-end-line="146" selection-end-column="23" />
+          <folding>
+            <element signature="e#2839#4205#0" expanded="true" />
+            <element signature="e#4204#4205#0" expanded="true" />
+>>>>>>> origin/master
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_head_page.xml">
+<<<<<<< HEAD
       <provider editor-type-id="android-designer">
         <state />
       </provider>
@@ -2703,10 +2791,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+=======
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+>>>>>>> origin/master
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-android-sdk/4.16.1/fc12b3c982cd78b884fac44a1e662fb71dc8879d/facebook-android-sdk-4.16.1-sources.jar!/com/facebook/Profile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2753,6 +2850,18 @@
             <element signature="e#2839#4065#0" expanded="true" />
             <element signature="e#4064#4065#0" expanded="true" />
 =======
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cropimage/MyApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="51" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cropimage/HeadPageActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+>>>>>>> origin/master
         <state vertical-scroll-proportion="0.16060606">
           <caret line="214" column="40" selection-start-line="214" selection-start-column="40" selection-end-line="214" selection-end-column="40" />
           <folding>
@@ -2767,6 +2876,9 @@
             <element signature="e#4616#4617#0" expanded="true" />
             <element signature="e#5392#6489#0" expanded="true" />
             <element signature="e#6488#6489#0" expanded="true" />
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
           </folding>
         </state>

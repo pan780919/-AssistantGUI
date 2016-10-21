@@ -94,7 +94,6 @@ public class page_2_Activity extends Activity {
 //					shareDialog.show(linkContent);
 //				}
                 if (ShareDialog.canShow(SharePhotoContent.class)) {
-                    Log.d(TAG, "onClick: in");
                     SharePhoto photo = new SharePhoto.Builder()
                             .setBitmap(bitamp)
                             .build();
