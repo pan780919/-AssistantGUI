@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\com_facebook_favicon_blue.png",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\com_facebook_favicon_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\navi_icon_back2.png",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\navi_icon_back2.png"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\compose_tools_icon_confirm_click.png",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\-AssistantGUI\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\compose_tools_icon_confirm_click.png"
+    }
+]
