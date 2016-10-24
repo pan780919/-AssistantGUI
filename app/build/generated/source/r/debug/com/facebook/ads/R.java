@@ -469,7 +469,7 @@ public final class R {
 		public static final int abc_textfield_search_material = 0x7f02004a;
 		public static final int ad_choices_bg = 0x7f02004b;
 		public static final int learn_more_bg = 0x7f020106;
-		public static final int notification_template_icon_bg = 0x7f020140;
+		public static final int notification_template_icon_bg = 0x7f020141;
 	}
 	public static final class id {
 		public static final int action0 = 0x7f0e00ca;

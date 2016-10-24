@@ -589,7 +589,7 @@
     <string name="accept">Accept</string>
     <string name="action_settings">選單</string>
     <string name="app_id">583698071813390</string>
-    <string name="app_name">惡鬼紋身</string>
+    <string name="app_name">殘酷相片評分器</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="banner_ad_unit_id">ca-app-pub-7019441527375550/1135167025</string>
     <string name="banner_admob_unit_id">ca-app-pub-7019441527375550/5993193027</string>
@@ -654,7 +654,7 @@
     <string name="default_web_client_id" translatable="false">288164734372-e6srsdkb53id69lgkendti7anv1bhcm9.apps.googleusercontent.com</string>
     <string name="fb_login_protocol_scheme">583698071813390</string>
     <string name="firebase_database_url" translatable="false">https://sevenpeoplebook.firebaseio.com</string>
-    <string name="ga_trackingId">UA-58399132-50</string>
+    <string name="ga_trackingId">UA-58399132-20</string>
     <string name="gcm_defaultSenderId" translatable="false">288164734372</string>
     <string name="google_api_key" translatable="false">AIzaSyDJJjZv_cTlmUmzDXS7QCHflsOaFq5nncs</string>
     <string name="google_app_id" translatable="false">1:288164734372:android:334d5d2e9cdc6019</string>

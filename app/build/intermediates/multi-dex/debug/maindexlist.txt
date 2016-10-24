@@ -15,7 +15,6 @@ com/adlocus/al.class
 com/google/android/gms/internal/zzeb.class
 com/google/android/gms/internal/zzhz.class
 com/google/android/gms/ads/internal/request/zzb.class
-com/facebook/GraphRequest$GraphJSONObjectCallback.class
 com/google/android/gms/internal/zzda.class
 com/google/android/gms/internal/zzhb.class
 com/google/android/gms/ads/internal/purchase/zzc.class
@@ -56,6 +55,7 @@ com/adlocus/push/k.class
 android/support/design/widget/ViewOffsetBehavior.class
 com/igexin/download/h.class
 com/igexin/getuiext/ui/promotion/UrlImageView.class
+com/cropimage/HeadPageActivity$5.class
 android/support/annotation/StringDef.class
 android/support/v4/media/MediaBrowserCompat$ItemReceiver.class
 com/google/android/gms/ads/internal/client/AdRequestParcel.class
@@ -256,7 +256,6 @@ com/google/android/gms/internal/zzjq.class
 com/google/android/gms/internal/zzip.class
 android/support/v4/media/VolumeProviderCompatApi21.class
 com/jhengweipan/tattoofans/MainActivity$2.class
-com/cropimage/MainActivity$9.class
 com/google/android/gms/internal/zzlc.class
 com/google/ads/AdSize.class
 com/google/android/gms/internal/zzkb.class
@@ -480,7 +479,6 @@ android/support/annotation/IntDef.class
 com/google/android/gms/common/GoogleApiAvailability.class
 com/google/android/gms/internal/zzle$zza.class
 com/google/android/gms/internal/zzakh.class
-com/cropimage/MainActivity$7.class
 com/google/android/gms/analytics/internal/zzae.class
 com/google/android/gms/internal/zzbv.class
 com/google/android/gms/ads/AdRequest$Builder.class
@@ -515,7 +513,6 @@ android/support/v4/view/animation/LookupTableInterpolator.class
 android/support/v4/media/MediaBrowserCompat$MediaItem$Flags.class
 android/support/annotation/CheckResult.class
 android/support/v4/view/ViewCompat$ICSMr1ViewCompatImpl.class
-com/facebook/AccessToken.class
 com/google/android/gms/internal/zzgv.class
 com/google/android/gms/internal/zzcm.class
 android/support/v4/widget/ViewDragHelper.class
@@ -557,6 +554,7 @@ com/igexin/sdk/PushManager.class
 android/support/v4/widget/SlidingPaneLayout.class
 com/google/firebase/iid/zzd.class
 com/google/android/gms/ads/internal/request/zzn.class
+com/jhengweipan/ga/MyGAManager.class
 android/support/v7/recyclerview/R.class
 android/support/v4/media/session/MediaSessionCompat$MediaSessionImpl.class
 android/support/v7/widget/TintTypedArray.class
@@ -649,7 +647,6 @@ com/google/android/gms/internal/zznv.class
 com/google/android/gms/internal/zzjp.class
 com/google/android/gms/ads/doubleclick/PublisherAdRequest$Builder.class
 com/google/android/gms/internal/zzka.class
-com/cropimage/MainActivity$8.class
 com/facebook/share/model/ShareModel.class
 com/google/android/gms/ads/internal/InterstitialAdParameterParcel.class
 com/google/android/gms/ads/internal/util/client/zzb.class
@@ -680,7 +677,6 @@ com/igexin/sdk/a/a.class
 com/google/android/gms/internal/zzes.class
 com/google/android/gms/internal/zzkv.class
 com/google/android/gms/internal/zzec.class
-com/jhengweipan/MyAPI/VersionChecker.class
 com/bumptech/glide/load/DecodeFormat.class
 android/support/v4/widget/ScrollerCompat.class
 com/igexin/sdk/PushServiceUser.class
@@ -688,10 +684,8 @@ com/google/android/gms/ads/internal/purchase/zzb.class
 android/support/v7/widget/RecyclerView$RecycledViewPool.class
 com/igexin/push/core/a/a.class
 com/google/android/gms/ads/internal/client/zzk.class
-com/jhengweipan/MyAPI/VersionChecker$DoneListener.class
 com/google/android/gms/internal/zzid.class
 com/google/android/gms/common/util/DynamiteApi.class
-com/jhengweipan/MyAPI/VersionChecker$DoneAdapter.class
 com/google/android/gms/internal/zzit.class
 com/igexin/getuiext/service/PayloadReceiver.class
 c/ExposedJsApi.class
@@ -788,7 +782,6 @@ com/google/android/gms/internal/zznt$zza.class
 android/support/v7/widget/RecyclerView$OnScrollListener.class
 android/support/v4/view/ViewCompat$BaseViewCompatImpl.class
 android/support/v4/util/SimpleArrayMap.class
-com/facebook/GraphRequestAsyncTask.class
 com/google/android/gms/internal/zzcj.class
 com/facebook/ads/InterstitialAd.class
 android/support/v4/app/Fragment.class
@@ -867,7 +860,6 @@ android/support/v7/app/ActionBar$TabListener.class
 com/google/android/gms/internal/zzie.class
 com/igexin/getuiext/ui/promotion/m.class
 com/google/android/gms/ads/internal/formats/zzi.class
-com/facebook/GraphRequest.class
 android/support/v7/widget/RecyclerView$LayoutParams.class
 android/support/v4/media/session/PlaybackStateCompat$State.class
 com/google/android/gms/analytics/Logger.class
@@ -1046,7 +1038,6 @@ com/igexin/getuiext/data/a/f.class
 android/support/design/widget/CoordinatorLayoutInsetsHelperLollipop.class
 com/cropimage/MainActivity$6.class
 android/support/v4/widget/ResourceCursorAdapter.class
-com/jhengweipan/MyAPI/RequestResponseListener.class
 android/support/v4/app/ActivityCompatApi23$RequestPermissionsRequestCodeValidator.class
 com/cropimage/MainActivity.class
 android/support/v4/app/BaseFragmentActivityHoneycomb.class

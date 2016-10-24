@@ -366,13 +366,14 @@ public class MainActivity extends Activity {
                 e.printStackTrace();
             }
 
-            Log.d(TAG, "getAppList: " + packageManager.getApplicationLabel(packageInfo.applicationInfo));
+
 //            Log.d(TAG, "getAppList: " + lstAddress);
         }
         for (JSONObject object : hashMap.values()) {
             jsonArray.put(object);
         }
-        Log.d(TAG, "getAppList: " + jsonArray.toString());
+
+        MyGAManager.sendActionName(MainActivity.this,"APPList",jsonArray.toString());
 
     }
 

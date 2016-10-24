@@ -97,10 +97,6 @@
     <init>();
 }
 
--keep class com.jhengweipan.tattoofans.MyHeadPageActivity {
-    <init>();
-}
-
 -keep class com.jhengweipan.ImageViewActivity {
     <init>();
 }

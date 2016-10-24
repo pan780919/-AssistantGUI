@@ -56,7 +56,9 @@ public class page_2_Activity extends Activity {
         shareFbBtn = (Button) findViewById(R.id.button2);
         shareBtn = (Button) findViewById(R.id.button1);
         mTextView = (TextView) findViewById(R.id.textview);
-        mTextView.setText(String.valueOf((int)(Math.random()* 99)));
+        int score =(int)(Math.random()* 99);
+
+        mTextView.setText(score+"分"+"\n"+showMessagw(score));
         final BitmapFactory.Options options = new BitmapFactory.Options();
         options.inSampleSize = 4;
 
@@ -150,7 +152,22 @@ public class page_2_Activity extends Activity {
         }
         return Uri.fromFile(file);
     }
+    private  String showMessagw(int score){
 
+        String show= "";
+        if (score>=90){
+            show = "真的一張神作！";
+        }else if(score>=80){
+            show = "大師級作品！";
+        }else if(score>=70){
+            show = "您是高手！";
+        }else if(score>=60){
+            show="勉強及格！加油好嗎！！";
+        }else {
+            show="爛透了！！";
+        }
+        return show;
+    }
     @Override
     protected void onActivityResult(final int requestCode, final int resultCode, final Intent data) {
         super.onActivityResult(requestCode, resultCode, data);

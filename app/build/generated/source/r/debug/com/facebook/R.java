@@ -572,7 +572,7 @@ public final class R {
 		public static final int messenger_button_send_round_shadow = 0x7f020114;
 		public static final int messenger_button_white_bg_round = 0x7f020115;
 		public static final int messenger_button_white_bg_selector = 0x7f020116;
-		public static final int notification_template_icon_bg = 0x7f020140;
+		public static final int notification_template_icon_bg = 0x7f020141;
 	}
 	public static final class id {
 		public static final int action0 = 0x7f0e00ca;
