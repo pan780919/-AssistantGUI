@@ -22,7 +22,6 @@
 -keep class com.jhengweipan.tattoofans.MenuListActivity { <init>(); }
 -keep class com.jhengweipan.tattoofans.MyFirebaseMessagingService { <init>(); }
 -keep class com.jhengweipan.tattoofans.MyFirebaseInstanceIDService { <init>(); }
--keep class com.jhengweipan.tattoofans.MyHeadPageActivity { <init>(); }
 -keep class com.jhengweipan.ImageViewActivity { <init>(); }
 -keep class com.cropimage.HeadPageActivity { <init>(); }
 -keep class com.cropimage.MainActivity { <init>(); }

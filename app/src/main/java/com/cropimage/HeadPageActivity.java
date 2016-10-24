@@ -183,11 +183,7 @@ public class HeadPageActivity extends Activity {
 					 //登入
 					fbName.setText(currentProfile.getName());
 					MyApi.loadImage(String.valueOf(currentProfile.getProfilePictureUri(150,150)),fbImg,HeadPageActivity.this);
-					Log.d(TAG, "currentProfile: "+currentProfile.getProfilePictureUri(150,150));
-					Log.d(TAG, "currentProfile: "+currentProfile.getId());
-					Log.d(TAG, "currentProfile: "+currentProfile.getFirstName());
-					Log.d(TAG, "currentProfile: "+currentProfile.getLastName());
-					Log.d(TAG, "currentProfile: "+currentProfile.getLinkUri());
+
 
 
 				}

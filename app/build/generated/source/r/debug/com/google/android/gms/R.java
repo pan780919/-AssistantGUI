@@ -560,7 +560,7 @@ public final class R {
 		public static final int common_plus_signin_btn_text_light_focused = 0x7f0200f7;
 		public static final int common_plus_signin_btn_text_light_normal = 0x7f0200f8;
 		public static final int common_plus_signin_btn_text_light_pressed = 0x7f0200f9;
-		public static final int notification_template_icon_bg = 0x7f020140;
+		public static final int notification_template_icon_bg = 0x7f020141;
 	}
 	public static final class id {
 		public static final int action0 = 0x7f0e00ca;
